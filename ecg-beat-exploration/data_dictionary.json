@@ -1,0 +1,11 @@
+{
+  "tables/record_summary.csv": "每条选中ECG一行，患者级汇总；幅度mV、RR ms",
+  "beats/beat_events.csv": "每个有效内部心拍一行；sample 0-based，time s，R幅度为0.5Hz高通后mV",
+  "beats/beat_waveforms.npz": "beats_mv扁平存储(n_beats,12,500)，offsets按记录索引；未插值增加心拍",
+  "tables/patient_features_full.csv": "患者级A/B/C特征；C只使用原始峰序号连续的有效心拍",
+  "tables/sqi_flatline_threshold_sensitivity.csv": "SQI平线阈值描述性敏感性，不用于排除",
+  "tables/abc_crossval_by_fold.csv": "fold 1-8患者级逻辑回归逐折结果，训练折内填补/标准化",
+  "tables/abc_shuffle_control_by_fold.csv": "患者内打乱顺序对照，随机种子记录",
+  "casebook/manual_review_form.csv": "自动观察与待人工填写问题；未宣称人工/临床审核完成",
+  "casebook/waveform_casebook.pdf": "真实波形casebook"
+}

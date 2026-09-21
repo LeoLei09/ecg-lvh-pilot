@@ -1,0 +1,22 @@
+ecg_id,strict_label,patient_id,role,reason,failure_reason,sqi_flags,valid_beat_count,algorithm_observation,manual_review_status,manual_questions
+2858,LVH,2970,exploratory_probe,beat_failure,rr_out_of_range,"[""excessive_flatline""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+7198,LVH,20348,prototype_pool,beat_failure,rr_out_of_range,"[""excessive_flatline""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+8315,LVH,6939,prototype_pool,beat_failure,rr_out_of_range,"[""excessive_flatline""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+13919,LVH,21450,prototype_pool,beat_failure,rr_out_of_range,"[""excessive_flatline""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+7503,LVH,18174,exploratory_probe,class_quality_sample,,"[""excessive_flatline""]",6,inspect SQI flatline flag and representative morphology,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+18147,LVH,9633,prototype_pool,class_quality_sample,,"[""excessive_flatline""]",6,inspect SQI flatline flag and representative morphology,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+19635,LVH,21525,prototype_pool,class_quality_sample,,"[""excessive_flatline""]",6,inspect SQI flatline flag and representative morphology,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+1385,LVH,802,prototype_pool,class_quality_sample,,"[""excessive_flatline""]",7,inspect SQI flatline flag and representative morphology,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+2762,LVH,1536,exploratory_probe,class_quality_sample,,"[""excessive_flatline""]",7,inspect SQI flatline flag and representative morphology,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+3316,LVH,21064,exploratory_probe,class_quality_sample,,"[""excessive_flatline""]",7,inspect SQI flatline flag and representative morphology,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+358,NORM,14469,exploratory_probe,beat_failure,rr_out_of_range,"[""excessive_flatline""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+4210,NORM,11543,prototype_pool,beat_failure,rr_out_of_range,"[""excessive_flatline""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+4374,NORM,20213,prototype_pool,beat_failure,rr_out_of_range,"[""excessive_flatline""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+4802,NORM,16470,prototype_pool,beat_failure,rr_out_of_range,"[""excessive_flatline""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+5783,NORM,9734,exploratory_probe,beat_failure,rr_out_of_range,"[""excessive_flatline"",""repeated_or_anticorrelated_leads""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+5962,NORM,16101,prototype_pool,beat_failure,rr_out_of_range,"[""excessive_flatline""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+11924,NORM,10793,prototype_pool,beat_failure,rr_out_of_range,"[""excessive_flatline""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+12118,NORM,21169,prototype_pool,beat_failure,rr_out_of_range,"[""excessive_flatline""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+18572,NORM,14502,prototype_pool,beat_failure,rr_out_of_range,"[""excessive_flatline""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+19122,NORM,21133,prototype_pool,beat_failure,rr_out_of_range,"[""excessive_flatline""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？
+19708,NORM,12094,prototype_pool,beat_failure,rr_out_of_range,"[""excessive_flatline""]",0,candidate peaks alternate short/long RR; inspect for double detection,待人工确认,R峰是否误检/漏检？切分边界是否合理？平线标志是否阈值假阳性？

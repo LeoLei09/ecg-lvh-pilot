@@ -1,0 +1,18 @@
+{
+  "analysis_core.py": "01c5b4bbdfc3aadff93fdfd5382d60db0313ea21666572b4e7f8ddaad2d6864b",
+  "baseline\\ecg5001\\__init__.py": "80eb8cafe6551957f8dfaaa106d30ed81dabdd6580b244a4f8a578b7ac74b92b",
+  "baseline\\ecg5001\\beats.py": "a3e1b5f33afb78ff4c5684d1c37a1095955beb47ea53b6ea6e09ad1b7a42e64f",
+  "baseline\\ecg5001\\bsw_like.py": "c7bea4d9406a8c6390359cbac8359ff2880c6948d64904c804066b8708b49995",
+  "baseline\\ecg5001\\cli.py": "91ba3f5b5987dc0220813c205f6f6f810ddeb9a11a4423b3917ee083462bb45c",
+  "baseline\\ecg5001\\cohort.py": "227975caaf6e060bc5995b4946ec8faf07013f4733d074261a4b5fcd0f8b2d6b",
+  "baseline\\ecg5001\\config.py": "fa77a3bfdd723e21311528465307d0746c38f117be81542fba245ffe95bfc6ff",
+  "baseline\\ecg5001\\pilot.py": "708443582c867b512ca7163e92bdbaedfed4605fc2b2475b4a6ac1da6a40f43e",
+  "baseline\\ecg5001\\reporting.py": "0060385c0975a41316b0e6f37253f25e86780dc6592d2b02ec823700b1daaa10",
+  "baseline\\ecg5001\\sqi.py": "0ef9fcd9655b4fda79ad6114dd1a81aac088791a0aece0dd94eff20e4b9bb518",
+  "baseline\\ecg5001\\wfdb_io.py": "8886185de06fc6df679f46f93c3731d4991f6c297433808103bb2d9bba7f51c9",
+  "deliverables.py": "d82efbba5b956bdd686cca747ad8b00c31d07d602bc0c6790a30d0e7f44ad04d",
+  "fixed_analysis.py": "6133e16b47f2b1ff062f6147d42a0d9830580e04a67aa509408d143c8cad97b2",
+  "fixed_pipeline.py": "90cfb44c8d22629fac05e78df0941a88930c4b812ea32f8e39ff0e07d8f869c8",
+  "tests\\test_fixed_analysis.py": "29d3b11733d602dfdd3333cd8c79afafaa26e6745e995efa9b2cd76bf8294266",
+  "tests\\test_pipeline_contracts.py": "00e1904017a6604af6b08688bdb446bac42a98cbb261ab3e468d039940075401"
+}

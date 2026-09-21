@@ -1,0 +1,11 @@
+﻿stage,cohort,scheme,fold,disjoint,validation_label_invariance,AB_feature_and_prediction_shuffle_invariance
+stage1,all300,exploratory,1,True,True,True
+stage1,all300,exploratory,2,True,True,True
+stage1,all300,exploratory,3,True,True,True
+stage1,all300,exploratory,4,True,True,True
+stage1,all300,exploratory,5,True,True,True
+stage1,all300,exploratory,6,True,True,True
+stage1,all300,exploratory,7,True,True,True
+stage1,all300,exploratory,8,True,True,True
+stage1,all300,strict,1,True,True,True
+stage1,all300,strict,6,True,True,True

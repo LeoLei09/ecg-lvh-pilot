@@ -1,0 +1,6 @@
+vh_threshold,LVH_prototype_pool_eligible,NORM_prototype_pool_eligible,LVH_all_selected_eligible,NORM_all_selected_eligible
+0.2,21,2,25,4
+0.25,34,16,47,20
+0.3,49,21,65,34
+0.35,60,26,80,46
+0.4,71,47,96,72

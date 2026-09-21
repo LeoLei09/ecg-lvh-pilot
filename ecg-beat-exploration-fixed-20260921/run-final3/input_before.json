@@ -1,0 +1,3447 @@
+{
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\beats\\beat_events.csv": {
+    "sha256": "38af1dd8c803ebc42ebfa093c6569c5d3cc39028875a9cb3ba87896d8ff97173",
+    "bytes": 337677,
+    "mtime_ns": 1789901466847370000
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\beats\\beat_waveforms.npz": {
+    "sha256": "aa2b324a4ccba4f6ce9dd4267164997e7adadb3d66e2cb24ac540079ef858a11",
+    "bytes": 129260909,
+    "mtime_ns": 1789901477213594800
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\casebook\\casebook_review_table.csv": {
+    "sha256": "8e95e8bc3ff286a7934da5f493e418eb4e92473c6053a274e2ebf598de3a1240",
+    "bytes": 1979,
+    "mtime_ns": 1789901479687645400
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\casebook\\manual_review_form.csv": {
+    "sha256": "c21408839dae45fff287ddc1b82a776c14896218b5dc297b571f09451b5e3e2f",
+    "bytes": 5651,
+    "mtime_ns": 1789902978533781400
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\casebook\\waveform_casebook.pdf": {
+    "sha256": "fd28339211fc91e6a3e0f977e882a5189442b2e14146ebe3a8b25b04cafdf9f6",
+    "bytes": 2959331,
+    "mtime_ns": 1789903155483389800
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\__pycache__\\beat_exploration.cpython-314.pyc": {
+    "sha256": "0cc73c84be7f2144f22110e049123e8a5cd30b0cb1792f132b62f5302acfdefb",
+    "bytes": 1686,
+    "mtime_ns": 1789902760000142600
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\__pycache__\\peak_sensitivity.cpython-314.pyc": {
+    "sha256": "6d14bc94a68eb527b6472b3c1de663c6361054f8819e012f0a6f02c2de768611",
+    "bytes": 5491,
+    "mtime_ns": 1789903302920039000
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\__pycache__\\postprocess.cpython-314.pyc": {
+    "sha256": "97dbdde1b9a677cd4ffff30f9e06fb4a1fc0aa77926ac6054196a8c36260a2f3",
+    "bytes": 14784,
+    "mtime_ns": 1789903302805649100
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\__pycache__\\run_exploration.cpython-314.pyc": {
+    "sha256": "23d9a73d88380aec0908ca2e03d691ad9c6c4b75964086450ff99f7b781b43fb",
+    "bytes": 49165,
+    "mtime_ns": 1789902759994721700
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\__init__.py": {
+    "sha256": "80eb8cafe6551957f8dfaaa106d30ed81dabdd6580b244a4f8a578b7ac74b92b",
+    "bytes": 98,
+    "mtime_ns": 1789647665684014600
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\__pycache__\\__init__.cpython-314.pyc": {
+    "sha256": "8b8da04017df2d050c1e9d563826027af08e7dec5fac4b9557cbef6fded3f7e1",
+    "bytes": 343,
+    "mtime_ns": 1789901039928823300
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\__pycache__\\beats.cpython-314.pyc": {
+    "sha256": "78e6cc49dbd953d253f7fbee3b3e06d379e2bd309659746ede92257bb9410898",
+    "bytes": 28535,
+    "mtime_ns": 1789901039978395600
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\__pycache__\\bsw_like.cpython-314.pyc": {
+    "sha256": "4e24c3819e2bfaccccb7e27c1f0dd0e4dc1fe7e09c280829a7d55873f6d01e64",
+    "bytes": 12971,
+    "mtime_ns": 1789901039999903500
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\__pycache__\\config.cpython-314.pyc": {
+    "sha256": "6061d2012a42c7046c84048aa03cf591bf9dae40bfd228404fdcd76a41e9a7dd",
+    "bytes": 9794,
+    "mtime_ns": 1789901039935058000
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\__pycache__\\sqi.cpython-314.pyc": {
+    "sha256": "c6355c62fb45fda60fc8be880db2613358c2724f9b170b29537536b3d530dca7",
+    "bytes": 22690,
+    "mtime_ns": 1789901040025503500
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\__pycache__\\wfdb_io.cpython-314.pyc": {
+    "sha256": "32b86a6c0bb97e9c8f0a76b6eea47bdc2e25931cbde807b4fe45882dc93931f4",
+    "bytes": 18323,
+    "mtime_ns": 1789901039949783900
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\beats.py": {
+    "sha256": "a3e1b5f33afb78ff4c5684d1c37a1095955beb47ea53b6ea6e09ad1b7a42e64f",
+    "bytes": 14208,
+    "mtime_ns": 1789677317710531800
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\bsw_like.py": {
+    "sha256": "c7bea4d9406a8c6390359cbac8359ff2880c6948d64904c804066b8708b49995",
+    "bytes": 7196,
+    "mtime_ns": 1789677701793373900
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\cli.py": {
+    "sha256": "91ba3f5b5987dc0220813c205f6f6f810ddeb9a11a4423b3917ee083462bb45c",
+    "bytes": 21504,
+    "mtime_ns": 1789694865554218400
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\cohort.py": {
+    "sha256": "227975caaf6e060bc5995b4946ec8faf07013f4733d074261a4b5fcd0f8b2d6b",
+    "bytes": 15903,
+    "mtime_ns": 1789658223472727900
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\config.py": {
+    "sha256": "fa77a3bfdd723e21311528465307d0746c38f117be81542fba245ffe95bfc6ff",
+    "bytes": 5480,
+    "mtime_ns": 1789652704060438800
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\pilot.py": {
+    "sha256": "708443582c867b512ca7163e92bdbaedfed4605fc2b2475b4a6ac1da6a40f43e",
+    "bytes": 7951,
+    "mtime_ns": 1789671390189134800
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\reporting.py": {
+    "sha256": "0060385c0975a41316b0e6f37253f25e86780dc6592d2b02ec823700b1daaa10",
+    "bytes": 7918,
+    "mtime_ns": 1789695011898703500
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\sqi.py": {
+    "sha256": "0ef9fcd9655b4fda79ad6114dd1a81aac088791a0aece0dd94eff20e4b9bb518",
+    "bytes": 15229,
+    "mtime_ns": 1789674769127006500
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\baseline\\ecg5001\\wfdb_io.py": {
+    "sha256": "8886185de06fc6df679f46f93c3731d4991f6c297433808103bb2d9bba7f51c9",
+    "bytes": 13139,
+    "mtime_ns": 1789672876225178300
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\beat_exploration.py": {
+    "sha256": "57891664f4a920267af0f8bc589f7a2feb71d053aba548cbd0a79dfac61e785d",
+    "bytes": 619,
+    "mtime_ns": 1789895669944914600
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\make_casebook_pdf.py": {
+    "sha256": "e7e684a41b650feaf9cf75986d3726424c317a16d83b894078b9ab68578233d4",
+    "bytes": 637,
+    "mtime_ns": 1789902890933421600
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\peak_sensitivity.py": {
+    "sha256": "13a7be75f6a75c5542bf9d279cf8629b7c8806864c83d12b51d2b057be906ac9",
+    "bytes": 2232,
+    "mtime_ns": 1789902814141252800
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\postprocess.py": {
+    "sha256": "c772a2736d913130d031618c09e56a2cece968fab7f7a16c91884d8882d2a746",
+    "bytes": 5095,
+    "mtime_ns": 1789902542297262300
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\regenerate_ascii_casebook.py": {
+    "sha256": "d45220aaa1a84446934c29c6b6435774cfc99cf6a91d9b9c30603f578b6295d8",
+    "bytes": 2665,
+    "mtime_ns": 1789903119804446800
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\run_exploration.py": {
+    "sha256": "05f8faeb883343e6d9c982ef48f221a34494ed0db5ff9fa8f8d626fa1f172eb4",
+    "bytes": 22576,
+    "mtime_ns": 1789902611183648300
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\tests\\__pycache__\\test_exploration_utils.cpython-314-pytest-9.1.1.pyc": {
+    "sha256": "f96cbed4a5494f17d9ceef2d95f8d7968451e08ed1f6dcc029fb5cbf967088fb",
+    "bytes": 5552,
+    "mtime_ns": 1789895572236110300
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\code\\tests\\test_exploration_utils.py": {
+    "sha256": "7441ebe12e5e6ad2fe96a58473421938bf6ad847574c388b7629f30ae21ea621",
+    "bytes": 519,
+    "mtime_ns": 1789895571578533200
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\data_dictionary.json": {
+    "sha256": "6f9a4e754eb7a3552a7f0a4d5c0187cc3978e5ab828ecc9460ef70b1d828e9b2",
+    "bytes": 940,
+    "mtime_ns": 1789903012461886600
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\ECG-5001-beat-exploration-report-zh.md": {
+    "sha256": "937bc2fafc69194376bcdd02215645120e0b139a18215064bcf789c12ae5453a",
+    "bytes": 5965,
+    "mtime_ns": 1789903288581394500
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_11924_NORM.png": {
+    "sha256": "0edfd02b3986b389223fb35e9b45801aaf7864827442962f99dafafeaaa5677d",
+    "bytes": 353791,
+    "mtime_ns": 1789903131848991100
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_12118_NORM.png": {
+    "sha256": "d621d3dbece0e28694225141d1c2faf1e03f7560f7cead70bd90ead125dd5775",
+    "bytes": 358979,
+    "mtime_ns": 1789903132358450300
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_1385_LVH.png": {
+    "sha256": "842200d3bdc6b2ee5280f1f261224e5e607c1a911dcf3a49e4d05874842345dc",
+    "bytes": 352152,
+    "mtime_ns": 1789903126765695900
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_13919_LVH.png": {
+    "sha256": "ec5dd31ae84825de05d2efbefbcfda1652aecb0ceba617244698ff020542ac7f",
+    "bytes": 325968,
+    "mtime_ns": 1789903124692550500
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_18147_LVH.png": {
+    "sha256": "d009d6b7c898b219b2cc30b0d8558c4a917fd65be3fe0623eca8340ee0de9afc",
+    "bytes": 337411,
+    "mtime_ns": 1789903125695693300
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_18572_NORM.png": {
+    "sha256": "288a4c8a933a09fb58b490849b18f4cbeaffd0dde44c133dbee90f0cd1cc056e",
+    "bytes": 341648,
+    "mtime_ns": 1789903132916890900
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_19122_NORM.png": {
+    "sha256": "6627d8936045e00c14c9b3c8409ae59727898f480da7f23db50c283eadc0c104",
+    "bytes": 400725,
+    "mtime_ns": 1789903133525154200
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_19635_LVH.png": {
+    "sha256": "1d15bc84bcb2b226f4e30317f7bc7d53f66bf48332b782a40774515046f5bf88",
+    "bytes": 358485,
+    "mtime_ns": 1789903126235186400
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_19708_NORM.png": {
+    "sha256": "4f7c4dc02552b6a86e8a26b9d8008dcfba3b9c8342063bc89f8a74aa823f6962",
+    "bytes": 385235,
+    "mtime_ns": 1789903134135551800
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_2762_LVH.png": {
+    "sha256": "4984fb5d60e60859b85f088f10bcca7ea4d05b3c82bc87b63f03377a37a7879a",
+    "bytes": 391389,
+    "mtime_ns": 1789903127277284600
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_2858_LVH.png": {
+    "sha256": "9635b2ce5075a9d0c1a669ac313bff248a554b2faddf27df419ec345d01ffcc1",
+    "bytes": 366242,
+    "mtime_ns": 1789903123096442800
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_3316_LVH.png": {
+    "sha256": "4d250b32498bde907d4c593625e3601a3a7b7adb1d5d22470f43cc5cae18ff5a",
+    "bytes": 360026,
+    "mtime_ns": 1789903127832241900
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_358_NORM.png": {
+    "sha256": "9d60dd8bae68809812f3511cf7a92557d0b3c70084cead3e1d79c1bead2666ba",
+    "bytes": 399767,
+    "mtime_ns": 1789903128420069200
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_4210_NORM.png": {
+    "sha256": "dd810c92d31bbcf367765a1d19fa8be65b145e13fdb1587d07414c0039842f48",
+    "bytes": 330777,
+    "mtime_ns": 1789903129015845800
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_4374_NORM.png": {
+    "sha256": "5f5c790b83d07d75a859cc7ccf8f4d701dec4bbb4c23e064328f860a393d43d8",
+    "bytes": 327601,
+    "mtime_ns": 1789903129592264600
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_4802_NORM.png": {
+    "sha256": "2c3363682e16990962fdfa5f1454d39bcc63efe8cc28f36fb031c357ce6608ba",
+    "bytes": 401959,
+    "mtime_ns": 1789903130180004200
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_5783_NORM.png": {
+    "sha256": "d378833b143c2ec466eec99f886082d39e2818db7ffa2823cda34eab92667e51",
+    "bytes": 345111,
+    "mtime_ns": 1789903130761537500
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_5962_NORM.png": {
+    "sha256": "5ec6806e0b687b5cc2708d85cef45228797df5cef7d66ac373b78d42ad07e71e",
+    "bytes": 355568,
+    "mtime_ns": 1789903131303221000
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_7198_LVH.png": {
+    "sha256": "e249c81143827926f4ebf0eee5015661af35b4bba298fcd484769d0244360b38",
+    "bytes": 343646,
+    "mtime_ns": 1789903123615287800
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_7503_LVH.png": {
+    "sha256": "caecb708775ae891af0bda7a427fadd713041a8849c36d798bbd55b2e631d3d4",
+    "bytes": 347197,
+    "mtime_ns": 1789903125191620900
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\case_8315_LVH.png": {
+    "sha256": "40170bbc93eef0c197ce9748ef807a35606c9b2b18f4b66cab20d09f5c55934f",
+    "bytes": 322985,
+    "mtime_ns": 1789903124147204200
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\distribution_rr_iqr_ms.png": {
+    "sha256": "8f89d12914364858954c7b6ee9f14b6682b9b150dbe2d51efc3e8ef31579a928",
+    "bytes": 25448,
+    "mtime_ns": 1789901506083506200
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\distribution_rr_mad_ms.png": {
+    "sha256": "6b333e9bdc5edbfd1f4897700c5d797b9a8666667012d81e19d4541ca63cfa6f",
+    "bytes": 23588,
+    "mtime_ns": 1789901505755102700
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\distribution_rr_median_ms.png": {
+    "sha256": "6c12b115eca7bcc9377a0290b9f3093fc8fc180a7412ed8b2f7367d62d913bbd",
+    "bytes": 28407,
+    "mtime_ns": 1789901505112691100
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\distribution_rr_sd_ms.png": {
+    "sha256": "6e23615f49e48cdb4caeb2c5841308d555ce1f1d94b9982febe875bc3f8616b2",
+    "bytes": 23397,
+    "mtime_ns": 1789901505435772200
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\figures\\distribution_valid_beat_count.png": {
+    "sha256": "b82eccddc7c992cf48617d4c2f1d944c898c360c45eec30105a66295e1e7f733",
+    "bytes": 25916,
+    "mtime_ns": 1789901504757478400
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\run_config.json": {
+    "sha256": "5dc52c27f388372f392b412b6c39387a9ccd2e0e406503a3ed3c8ab7bf249afc",
+    "bytes": 604,
+    "mtime_ns": 1789903012461308700
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\tables\\abc_crossval_by_fold.csv": {
+    "sha256": "e56b226ecdcac900aefa462ddfcdb0f9cf553d9d1a73526fbb3cba8fd98a2cdc",
+    "bytes": 1325,
+    "mtime_ns": 1789901506344086100
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\tables\\abc_crossval_predictions.csv": {
+    "sha256": "adbd443c98ba80d3dde3e9d4e7e91c35c8393dd45810952e216a950a6535d5b2",
+    "bytes": 28544,
+    "mtime_ns": 1789901506349414400
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\tables\\abc_crossval_summary.csv": {
+    "sha256": "517449df7b53837763539c377d6da31a21a220bea4f8437edc7d2d2ad3bd5e8f",
+    "bytes": 326,
+    "mtime_ns": 1789901506366215800
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\tables\\abc_shuffle_control_by_fold.csv": {
+    "sha256": "decf30e42a3e154ab2081df9cdacc525ce04299e5373113d120ca94a300a2b19",
+    "bytes": 4751,
+    "mtime_ns": 1789902559191773700
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\tables\\abc_shuffle_control_summary.csv": {
+    "sha256": "acf38614dfad75a70c8d184f43a2f0b361b90e2ea551aeb4053022fed422bdd7",
+    "bytes": 236,
+    "mtime_ns": 1789902559197401100
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\tables\\beat_curves.csv": {
+    "sha256": "b5491557762d5c2ba7dce4d1e00472434b1cc92084e695ca267353b565976d64",
+    "bytes": 981723,
+    "mtime_ns": 1789902588279471900
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\tables\\patient_features_full.csv": {
+    "sha256": "1da0bbcce908095ca89c43c0a2f93e3f9c8dfebd64668bb134254948f8895a8c",
+    "bytes": 409823,
+    "mtime_ns": 1789901466761522600
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\tables\\patient_group_descriptives.csv": {
+    "sha256": "e6b30e03ca69eb52d2bbf0f15fbb427b02d9e0a7e4e00f06bc726e6f94493ed3",
+    "bytes": 1035,
+    "mtime_ns": 1789902559225220100
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\tables\\peak_filter_sensitivity.csv": {
+    "sha256": "345e814bfc37d05a075bf818c1ee535ede69afd09bfaed8134100a7059a6e50d",
+    "bytes": 85283,
+    "mtime_ns": 1789902818496609100
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\tables\\peak_filter_sensitivity_summary.csv": {
+    "sha256": "30876f2a84ec874f6ba2c55a2f179e6eea10014a35a7fbb1e4ac774a7b3050cc",
+    "bytes": 402,
+    "mtime_ns": 1789902818525442300
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\tables\\record_summary.csv": {
+    "sha256": "76f7036665d5d10eb4c3799081f249f71b435ec120e851220ef98fad322fbd01",
+    "bytes": 104762,
+    "mtime_ns": 1789901479166532200
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\tables\\sqi_flatline_threshold_sensitivity.csv": {
+    "sha256": "c7a381c8a4b13ca69581f0a68c022b9c447a1fa69d5c5d45862a944f2a74912d",
+    "bytes": 349429,
+    "mtime_ns": 1789901479654570500
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\tables\\sqi_flatline_threshold_summary.csv": {
+    "sha256": "c4ff38a946c80b159a53ffdea1f208e6dc2649ce1b268473aa7a07bf4beeb046",
+    "bytes": 390,
+    "mtime_ns": 1789902559212166600
+  },
+  "D:\\UserFiles\\desktop\\dd\\2026-09-20\\ecg-5001-pilot-garch-egarch-ecg\\outputs\\ecg-beat-exploration\\tables\\vh_threshold_sensitivity.csv": {
+    "sha256": "c050e0b1ef2585fe806c14428e01f73afb248c3fb341a50cee2f4f91d48d3cba",
+    "bytes": 209,
+    "mtime_ns": 1789903257718608300
+  },
+  "D:\\UserFiles\\desktop\\dd\\ecg5001-real-output-final5\\run-20260918T013319Z-0edaca8ce0fe\\bsw_probe_metrics.csv": {
+    "sha256": "cb5ecf6540518d7482f81000618c4ed144f37b02bb1a9bd4d1f203ed628adeab",
+    "bytes": 26208,
+    "mtime_ns": 1789695201700111900
+  },
+  "D:\\UserFiles\\desktop\\dd\\ecg5001-real-output-final5\\run-20260918T013319Z-0edaca8ce0fe\\casebook.pdf": {
+    "sha256": "7c24477f777bd9f96d59e1da2b9cebeebde8fbf7e40eada02371aca501b1d094",
+    "bytes": 1314,
+    "mtime_ns": 1789695201716454100
+  },
+  "D:\\UserFiles\\desktop\\dd\\ecg5001-real-output-final5\\run-20260918T013319Z-0edaca8ce0fe\\casebook_manifest.csv": {
+    "sha256": "a8931a87849bb273f6483a8dc47aa6c3e0b2a9e320cb6f4e4bb7624d7a6f70a8",
+    "bytes": 99159,
+    "mtime_ns": 1789695201714435000
+  },
+  "D:\\UserFiles\\desktop\\dd\\ecg5001-real-output-final5\\run-20260918T013319Z-0edaca8ce0fe\\cohort_index.csv": {
+    "sha256": "c5891289e3336f86918ae6ffd88e4d96baaff18ec773c4d1a72358357a5f6d03",
+    "bytes": 19800191,
+    "mtime_ns": 1789695201091970700
+  },
+  "D:\\UserFiles\\desktop\\dd\\ecg5001-real-output-final5\\run-20260918T013319Z-0edaca8ce0fe\\cohort_summary.json": {
+    "sha256": "53d46e8d768375be3cc3ee10797ecd2cdad6ce206a8e595f6dd4727e7a1db7fd",
+    "bytes": 125862,
+    "mtime_ns": 1789695201100941900
+  },
+  "D:\\UserFiles\\desktop\\dd\\ecg5001-real-output-final5\\run-20260918T013319Z-0edaca8ce0fe\\data_dictionary.json": {
+    "sha256": "e0e6642913e692fa6f0d7a952cfc40acf1b5ffcdb65cc72decdbc7a3ba867c53",
+    "bytes": 2150,
+    "mtime_ns": 1789695201717495500
+  },
+  "D:\\UserFiles\\desktop\\dd\\ecg5001-real-output-final5\\run-20260918T013319Z-0edaca8ce0fe\\pilot_manifest.csv": {
+    "sha256": "a3a10cdd7f5f8cc901505e82c9826d206b1c037c925fdfe9bb924d58170c85e2",
+    "bytes": 362034,
+    "mtime_ns": 1789695201133168400
+  },
+  "D:\\UserFiles\\desktop\\dd\\ecg5001-real-output-final5\\run-20260918T013319Z-0edaca8ce0fe\\pilot_report.md": {
+    "sha256": "8ab29c29d8e1ab4b75ceae3c2efc145692075b7a3652b2de85bf4038d2dd4b27",
+    "bytes": 1145,
+    "mtime_ns": 1789695201717495500
+  },
+  "D:\\UserFiles\\desktop\\dd\\ecg5001-real-output-final5\\run-20260918T013319Z-0edaca8ce0fe\\record_metrics.csv": {
+    "sha256": "e91fa11fb97fd78d30dc17e1ce808b98a2bbab5d4aa6b845ceca63d024ae0ae9",
+    "bytes": 1579395,
+    "mtime_ns": 1789695201234520000
+  },
+  "D:\\UserFiles\\desktop\\dd\\ecg5001-real-output-final5\\run-20260918T013319Z-0edaca8ce0fe\\representative_beats.npz": {
+    "sha256": "6acf77bb3eeafce1e26f224caefeed8bc65cae78c6356e5ad2938dac7899268a",
+    "bytes": 13065296,
+    "mtime_ns": 1789695201692674400
+  },
+  "D:\\UserFiles\\desktop\\dd\\ecg5001-real-output-final5\\run-20260918T013319Z-0edaca8ce0fe\\summary.json": {
+    "sha256": "120b5c224d427d4a65a6ca4f45fefcf2b80b33b6e09697c71b321b88482baec0",
+    "bytes": 388634,
+    "mtime_ns": 1789695201724445600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\ptbxl_database.csv": {
+    "sha256": "7600de9c1b27d181d850b3c6038a35d7c3ddb6bb33b702e3a20252a6859d216b",
+    "bytes": 6594879,
+    "mtime_ns": 1789627210426862700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00096_hr.dat": {
+    "sha256": "4a6196ae87d3d411cd7c799b8f0504c19254aeeb6a28aeefceb4dca54bedec67",
+    "bytes": 120000,
+    "mtime_ns": 1789627461562240700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00096_hr.hea": {
+    "sha256": "41fd61e3632a9accbaec3503959c896b2662104766b14c550b9ff27336c4bc45",
+    "bytes": 609,
+    "mtime_ns": 1789627461567749100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00104_hr.dat": {
+    "sha256": "e7986745a584d5bf236adea495f4c459e4398f180ec99ad88ba80d3c6c6bb8d8",
+    "bytes": 120000,
+    "mtime_ns": 1789627461686706600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00104_hr.hea": {
+    "sha256": "4643326498ae69d127f1215eb989ca815d19aab6cf97835959a05976249ae9ac",
+    "bytes": 607,
+    "mtime_ns": 1789627461691799900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00138_hr.dat": {
+    "sha256": "e1aa53c787fd3228ff528c3e8deec175f1a82dc1f3dc852b48417df9a0bc53d8",
+    "bytes": 120000,
+    "mtime_ns": 1789627462110371800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00138_hr.hea": {
+    "sha256": "43f0c3e405ea004d7d6512069b363b9b166e1281423740ae64f09286092a2da9",
+    "bytes": 611,
+    "mtime_ns": 1789627462116444400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00150_hr.dat": {
+    "sha256": "c9a1444d3344e99de5b9d4f859ac7ad162a9c8dc3a452d1a0a17a331f9399d87",
+    "bytes": 120000,
+    "mtime_ns": 1789627462184819400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00150_hr.hea": {
+    "sha256": "3cd4c731e18513c454f17e1b6837d692d670ed508b5f6a1eca7d9d625c586735",
+    "bytes": 601,
+    "mtime_ns": 1789627462191135100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00333_hr.dat": {
+    "sha256": "d97824a80c61c70c53562123ebfd43327fb8c6d9d33dd340dd755954fc45d3eb",
+    "bytes": 120000,
+    "mtime_ns": 1789627464653498900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00333_hr.hea": {
+    "sha256": "5cb0e82f8bf94e512ec861051300f9589e8496fe486b33989e2615c7a99c3e5e",
+    "bytes": 610,
+    "mtime_ns": 1789627464658512700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00358_hr.dat": {
+    "sha256": "8ebd5c759c342c7529fca328ff87fdb1fb806dccf925bc057526aaae9072bb7f",
+    "bytes": 120000,
+    "mtime_ns": 1789627464979128300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00358_hr.hea": {
+    "sha256": "e259dea30fb0005ac773850f49ef295727ed147a6a6366843a267718def2116e",
+    "bytes": 605,
+    "mtime_ns": 1789627464985578100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00443_hr.dat": {
+    "sha256": "4db061bc5c9bb2acc518d4e6b3525ea234f79e6c877a58811d2d263ee2ef607c",
+    "bytes": 120000,
+    "mtime_ns": 1789627466109154800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00443_hr.hea": {
+    "sha256": "463e4df6386e09dc43cc8b6d812f2b945c1893653a95eff4f9f637acf34b7087",
+    "bytes": 603,
+    "mtime_ns": 1789627466114978400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00578_hr.dat": {
+    "sha256": "f39e13de903608fec4a467f4d45a879aff696a61dc88732aa8cde08723de8413",
+    "bytes": 120000,
+    "mtime_ns": 1789627467839478400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00578_hr.hea": {
+    "sha256": "a5caf1406e6936f49d065f1cdaacc07344013a8789c862acc54cb21ac9272c13",
+    "bytes": 620,
+    "mtime_ns": 1789627467845909600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00602_hr.dat": {
+    "sha256": "dad88c6ed351096cd0b5eb9778d833111288f7374428505b376eadac92cf14b2",
+    "bytes": 120000,
+    "mtime_ns": 1789627468138270800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00602_hr.hea": {
+    "sha256": "8d15061437951c1efa77926b0791f3c3b16e9c596701cae4a3c8abb1461e617e",
+    "bytes": 603,
+    "mtime_ns": 1789627468144423200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00697_hr.dat": {
+    "sha256": "992cc52ac166cf66817ff7d1ef4e7bdba7b5e1732fb8f2fe34e3e06792b87f62",
+    "bytes": 120000,
+    "mtime_ns": 1789627469405948900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00697_hr.hea": {
+    "sha256": "dc2c854553408bdac58d078fbea43803f321231ad1b922be2aa595b038a2c8bf",
+    "bytes": 606,
+    "mtime_ns": 1789627469413300700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00900_hr.dat": {
+    "sha256": "25b5fa88fcfb2bc0e6555eed2f2d6d568f37a5b6fb69c8080f7d8a98c10a2b6f",
+    "bytes": 120000,
+    "mtime_ns": 1789627472147066700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00900_hr.hea": {
+    "sha256": "0a7396f59957b131687394a41cecb8f18b85b8d3a5618c87b3f08ad228b79510",
+    "bytes": 606,
+    "mtime_ns": 1789627472153300700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00933_hr.dat": {
+    "sha256": "35c10ba155f47dc2d71453f8718de9f0939480c58002556028cb2a7ec2b2b247",
+    "bytes": 120000,
+    "mtime_ns": 1789627472692721400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\00000\\00933_hr.hea": {
+    "sha256": "9e6a65199e84313d02d4b6ccf30cb21192917c8a759e80b6ef36018e7984caa4",
+    "bytes": 605,
+    "mtime_ns": 1789627472699879900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01004_hr.dat": {
+    "sha256": "8e994332df960cf002c3a2e20a3f3fadabc6c535c92a78172f3485dc438aafa3",
+    "bytes": 120000,
+    "mtime_ns": 1789627473742141100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01004_hr.hea": {
+    "sha256": "4b3774b379777e398334e444f73db83e8ef8622c00eeb8b45194b74b156405bf",
+    "bytes": 611,
+    "mtime_ns": 1789627473748248200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01032_hr.dat": {
+    "sha256": "5ace0069e74c7229611636e4da7fca7d1b8687b3c3023d891db18da3045ef6a4",
+    "bytes": 120000,
+    "mtime_ns": 1789627474121868300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01032_hr.hea": {
+    "sha256": "3b25b6cecebe751275c1f89a4ddf27d45f6f993540cb6330b4a25d12ed2f2c29",
+    "bytes": 612,
+    "mtime_ns": 1789627474126335100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01154_hr.dat": {
+    "sha256": "cece5d2b4ae30aa0cea89a2fc594607c7a68398ca4cd20fdff12191765cd1ae8",
+    "bytes": 120000,
+    "mtime_ns": 1789627475665494100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01154_hr.hea": {
+    "sha256": "3d7c07945071f0ddb00605cb0b593821857126541137e1390acd07b1181ba717",
+    "bytes": 606,
+    "mtime_ns": 1789627475672088300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01192_hr.dat": {
+    "sha256": "60e435385371e98dd8fb585cacb6aa30dba261a99a3ccd91f330a1d1180bb607",
+    "bytes": 120000,
+    "mtime_ns": 1789627476164631000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01192_hr.hea": {
+    "sha256": "3b8b563c9bc7c4202e36277a8d71b1781c4d4b38e22d871ff0e76ebb51602fce",
+    "bytes": 613,
+    "mtime_ns": 1789627476170165700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01217_hr.dat": {
+    "sha256": "0037d676de8890cd3f28d0fb1b1545ac1fab058ef3b56d1c5137a9c84e06bc4a",
+    "bytes": 120000,
+    "mtime_ns": 1789627476468101000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01217_hr.hea": {
+    "sha256": "5dcd3344e6e04e748bce2a0e0a18e7face06d509fe07a80a4ef19b682c6ac020",
+    "bytes": 615,
+    "mtime_ns": 1789627476472749000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01241_hr.dat": {
+    "sha256": "3b3289ec1491d3d6ed5931fa23ec38864de0e23fd36535882a4433a587ce4918",
+    "bytes": 120000,
+    "mtime_ns": 1789627476763193500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01241_hr.hea": {
+    "sha256": "579dcf783243e673227b564057bfe8de8d7c2b1e08ffa92d54cafeee1cdbde85",
+    "bytes": 609,
+    "mtime_ns": 1789627476768732200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01358_hr.dat": {
+    "sha256": "2b641e51e6e087a8cf91f635c76898a79b0cbcb87d54a38237f19577264d2e7a",
+    "bytes": 120000,
+    "mtime_ns": 1789627478408308600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01358_hr.hea": {
+    "sha256": "2083fb04ab81188a51caa7d77b1e1283ea85adcd8da14ae7a34782bc201c06ab",
+    "bytes": 605,
+    "mtime_ns": 1789627478413829700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01385_hr.dat": {
+    "sha256": "a3dfa3bc16e82e83ae1d1590f759c16e49db29565d596b34bfc2f3b1ba238b00",
+    "bytes": 120000,
+    "mtime_ns": 1789627478792093000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01385_hr.hea": {
+    "sha256": "32bb44862df67ae4d5806e2d97ae0e3006824c46825f2de8321883446dde8f2e",
+    "bytes": 610,
+    "mtime_ns": 1789627478799078600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01446_hr.dat": {
+    "sha256": "c174ea49b1152c008b4120256f0da86cebffee822e2f24073b22e115a088a430",
+    "bytes": 120000,
+    "mtime_ns": 1789627479574904500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01446_hr.hea": {
+    "sha256": "4776819e462f81ea2912a66813d14f3bd182c8b6506b68086330edf76065f46f",
+    "bytes": 611,
+    "mtime_ns": 1789627479582025000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01508_hr.dat": {
+    "sha256": "64978af78ec96ce6a240eec6dd429c607974e5d2e5dfc4245fe295beb74bf264",
+    "bytes": 120000,
+    "mtime_ns": 1789627480411189500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01508_hr.hea": {
+    "sha256": "10c316a76eb0cb8afe37e9d653b26268b64530080f3381b788a5425d5a2271cb",
+    "bytes": 600,
+    "mtime_ns": 1789627480416806700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01691_hr.dat": {
+    "sha256": "4ab09f84392aaef551631a1b55e230b346a0f4e20bff9e5d409181a9f28af6d1",
+    "bytes": 120000,
+    "mtime_ns": 1789627482953644300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01691_hr.hea": {
+    "sha256": "0ac4ddca4439d3aa9c8f4206407d32e1d839c71b1a9f9024a9bc8057ff05c319",
+    "bytes": 610,
+    "mtime_ns": 1789627482959580800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01702_hr.dat": {
+    "sha256": "5984cb543116387fd40a6a2025c8ee9a812289b996ea60d580a50335829cbfbe",
+    "bytes": 120000,
+    "mtime_ns": 1789627483099434500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01702_hr.hea": {
+    "sha256": "e9601b6a0579e667c788f7365cd32b49cd7effe9e2d9862643de2dbb57d6eafb",
+    "bytes": 606,
+    "mtime_ns": 1789627483105735100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01779_hr.dat": {
+    "sha256": "e94724588d2882dc5031c24760b25419e6076cfdda6d43df2a4161e4250aa24e",
+    "bytes": 120000,
+    "mtime_ns": 1789627484186041900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01779_hr.hea": {
+    "sha256": "24653644d046df7cd8c6780a9f05d97d9dec7e1857566cce195cab6aae61baee",
+    "bytes": 607,
+    "mtime_ns": 1789627484191233100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01904_hr.dat": {
+    "sha256": "2f9b6e4772521951ab868562ee96cea722b98107b5429f04bf65e01b0de3c340",
+    "bytes": 120000,
+    "mtime_ns": 1789627485864939100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01904_hr.hea": {
+    "sha256": "63f1a945f44f4a4ca7f802017bd4393782897f4ec71518cff545b54936653e14",
+    "bytes": 614,
+    "mtime_ns": 1789627485871039500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01913_hr.dat": {
+    "sha256": "2f0f080b5e48cd61618cbbbbf1b259dc8809612a86937cde452c505c7f05a7b0",
+    "bytes": 120000,
+    "mtime_ns": 1789627485985255700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01913_hr.hea": {
+    "sha256": "8c9f40f624eae660cc0c6a8e78b1b2d82a81048fe0cdce69f320404517ad3c2c",
+    "bytes": 607,
+    "mtime_ns": 1789627485990658800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01996_hr.dat": {
+    "sha256": "4518a241b0d3b1c2f152873177562f0fa03d8e1d71aa0090466829073d30687b",
+    "bytes": 120000,
+    "mtime_ns": 1789627487066290300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\01000\\01996_hr.hea": {
+    "sha256": "01c1c3c3bd0ea4a550100c9557fdf9e963f26b93fdd37510743bb4d0d2674eda",
+    "bytes": 608,
+    "mtime_ns": 1789627487075453500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02005_hr.dat": {
+    "sha256": "1fb864b7030b274f48a339d8f6fcbe469038345e191477849077fddca4239323",
+    "bytes": 120000,
+    "mtime_ns": 1789627487195313500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02005_hr.hea": {
+    "sha256": "2223cefe44d9f1ecff06985f226a0d3598ba81c6f2819f3e688c525a0baba3f9",
+    "bytes": 609,
+    "mtime_ns": 1789627487200474500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02052_hr.dat": {
+    "sha256": "37175e8ab7f23af55037a4ee577baa78a2c9a4aa0eaeaf2c4fe4798b11c9f849",
+    "bytes": 120000,
+    "mtime_ns": 1789627487780995600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02052_hr.hea": {
+    "sha256": "fe989e806a1103122a92e5804512ccd21e19d0b649c29637882d50637ac98120",
+    "bytes": 615,
+    "mtime_ns": 1789627487786258500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02179_hr.dat": {
+    "sha256": "fb87819e3b846d8223f14ebd7d1cc17031e4e167e5c6c0dc0d9545a2979c9e4a",
+    "bytes": 120000,
+    "mtime_ns": 1789627489401877200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02179_hr.hea": {
+    "sha256": "997216488bfd98ed677ad25926639e56fcf37b6ceaa878b00d5d049b071b9627",
+    "bytes": 605,
+    "mtime_ns": 1789627489409484000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02186_hr.dat": {
+    "sha256": "f255ebe22435daefb941163105d2e290e18d6197a028a1aa45ee94d7b05c3ccd",
+    "bytes": 120000,
+    "mtime_ns": 1789627489509620000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02186_hr.hea": {
+    "sha256": "7ae03d2c191ce5fbb65a05636b33da75d30b660bdfbbc3e83b8bdd009966db39",
+    "bytes": 605,
+    "mtime_ns": 1789627489515813800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02197_hr.dat": {
+    "sha256": "e83fa780ad88d8a4e0182c0ad9912f3cd506e21c863aca22e227f9f028ae6f07",
+    "bytes": 120000,
+    "mtime_ns": 1789627489645780900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02197_hr.hea": {
+    "sha256": "1de2ec9f0739117233d104ab2b8b87eab71508491269f24b65200ef2eea473fb",
+    "bytes": 615,
+    "mtime_ns": 1789627489649959400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02491_hr.dat": {
+    "sha256": "77ec5284e2a1ff26bdca1318a6a61c42d45f1d61d9479f8d3eb0e59b27bbfcea",
+    "bytes": 120000,
+    "mtime_ns": 1789627493378139300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02491_hr.hea": {
+    "sha256": "786549a5dc42cb5efc9c2b7da63bdc38f32c047a270ef41916c7b5793f6cf3d6",
+    "bytes": 609,
+    "mtime_ns": 1789627493383566400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02533_hr.dat": {
+    "sha256": "13b9577a9e7f13e59ae39cc8a2b7545bc4ef553ceba67979c0fc7c0291522e2c",
+    "bytes": 120000,
+    "mtime_ns": 1789627493932522300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02533_hr.hea": {
+    "sha256": "3e13fb1f22fdc44f74728f0407f32a4364313cc74c98dd1ebdb0e606374d3cfd",
+    "bytes": 615,
+    "mtime_ns": 1789627493939032900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02557_hr.dat": {
+    "sha256": "07618f3fdad8ec66239bd1c82f2d208bebb3a2441d158b2a1158781be867c8b1",
+    "bytes": 120000,
+    "mtime_ns": 1789627494224540700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02557_hr.hea": {
+    "sha256": "21e89186fbd750d12bb425948cfa88c2ec636baccc9db6d3cf5f79c28f2d9ef0",
+    "bytes": 600,
+    "mtime_ns": 1789627494230012700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02647_hr.dat": {
+    "sha256": "f23b97c356019299bca4daa609d63506587599abef35addce99331988dc09f1e",
+    "bytes": 120000,
+    "mtime_ns": 1789627495381276100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02647_hr.hea": {
+    "sha256": "74039b059d3fa7080d152080bb89ce080a6bc25d4b27c7825a579949b586a23a",
+    "bytes": 608,
+    "mtime_ns": 1789627495388973100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02706_hr.dat": {
+    "sha256": "41616fe3610b43b2edf27834458d8d332b6aeb5c6f832c66f8bd236926f493f5",
+    "bytes": 120000,
+    "mtime_ns": 1789627496145620400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02706_hr.hea": {
+    "sha256": "268d10cac489cdca1f49eb1989ad43a19dce5ee241060ddaeae3a41ffb9c5900",
+    "bytes": 620,
+    "mtime_ns": 1789627496151151500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02762_hr.dat": {
+    "sha256": "617d3754ddc4a6aad14162e398d822803dc2e463049adbb0a5e0f863d2bb1e13",
+    "bytes": 120000,
+    "mtime_ns": 1789627496875956900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02762_hr.hea": {
+    "sha256": "3c85d38bf15b2e58ce0244535f00e140e380b68c8dab66f8a04db4de4f16dc00",
+    "bytes": 620,
+    "mtime_ns": 1789627496881421100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02784_hr.dat": {
+    "sha256": "9a8df70d2bcb0a54b584ef9a585acb9eed403322005692bd82332f6b4382e95d",
+    "bytes": 120000,
+    "mtime_ns": 1789627497179210400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02784_hr.hea": {
+    "sha256": "880f5249b210793017da63208c67acf8824e0a955b4fc4eac05bb0afdfddacd3",
+    "bytes": 616,
+    "mtime_ns": 1789627497184657100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02858_hr.dat": {
+    "sha256": "246d1a7cd01a8e38b51c51b58c1f03c769252ed050b5fd7c5319d93cb5bf1f61",
+    "bytes": 120000,
+    "mtime_ns": 1789627498182212700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\02000\\02858_hr.hea": {
+    "sha256": "7bbd7046d1638bc2f3ba112aca1305fc0653801af8da91d8786e0d1fbcfb2658",
+    "bytes": 616,
+    "mtime_ns": 1789627498187868800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03175_hr.dat": {
+    "sha256": "d2233be5eadc0265dad886dbaca33d5ff53291b08bf42a6aa44d88cc66dda15a",
+    "bytes": 120000,
+    "mtime_ns": 1789627502357731300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03175_hr.hea": {
+    "sha256": "979c59bd7cf45cc4a816d6e27f4de5a956ae7047e1c9bdbfb54c3080818b5b1f",
+    "bytes": 608,
+    "mtime_ns": 1789627502363782000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03205_hr.dat": {
+    "sha256": "efbf74acf906b5d8944e4fd957e427c58ff9e9d2dc87ddf8d7cb8029e819bfd0",
+    "bytes": 120000,
+    "mtime_ns": 1789627502732772600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03205_hr.hea": {
+    "sha256": "f674df0cf77501f21d1487557edea4da1a469df842264339f38059e1792e3eca",
+    "bytes": 610,
+    "mtime_ns": 1789627502737792700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03218_hr.dat": {
+    "sha256": "dd1dc9b02c9d85b08bed171c6c19f8052699903b266b731196365c9bf9be7947",
+    "bytes": 120000,
+    "mtime_ns": 1789627502887601900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03218_hr.hea": {
+    "sha256": "bdc6a1417572a9bd63c107cac91f4b2eb1f70a66eb56ab7a84cfc3582e83a1f8",
+    "bytes": 618,
+    "mtime_ns": 1789627502893081200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03228_hr.dat": {
+    "sha256": "c3b6b964bad1571a6eb41e46e237e717e0a94539a1898b7689c9af40b344a19f",
+    "bytes": 120000,
+    "mtime_ns": 1789627503010831700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03228_hr.hea": {
+    "sha256": "305e426f82d00b398398e15b3ecf4e5e768bfb7e1ad7c37b365228d5a8758ba1",
+    "bytes": 610,
+    "mtime_ns": 1789627503017242300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03229_hr.dat": {
+    "sha256": "960f2b803a54b6911a1afccbbc559f0fc9a377f59e133caa083bdf1d207b3cad",
+    "bytes": 120000,
+    "mtime_ns": 1789627503022562400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03229_hr.hea": {
+    "sha256": "24459960967de7522cfff9a49cd6872c60b72da15972422021b73e9dd6125277",
+    "bytes": 605,
+    "mtime_ns": 1789627503028888900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03316_hr.dat": {
+    "sha256": "a6082c2e1c4ce7c27ab87bfae1e350f4167109e1287858b99ac857489552eac4",
+    "bytes": 120000,
+    "mtime_ns": 1789627504114453700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03316_hr.hea": {
+    "sha256": "7750267515593e9cbd9d6dfa2d331eb25d2d3eea8c0c5492dd4558768a9b505f",
+    "bytes": 608,
+    "mtime_ns": 1789627504119699700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03373_hr.dat": {
+    "sha256": "4453781671bb052c14ea55e0598664ac1b8e0b5ffd04359bb295b40870f617e8",
+    "bytes": 120000,
+    "mtime_ns": 1789627504859416900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03373_hr.hea": {
+    "sha256": "9b20be1fa57002b6ece1c88a8cab2f95eacdd5636b5773870b650da7bb763cfc",
+    "bytes": 611,
+    "mtime_ns": 1789627504863586800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03388_hr.dat": {
+    "sha256": "cb17f6fcabcc625a0a538a0f72e74ccf5eb3a646cedcd44c91b63758e3f15fdd",
+    "bytes": 120000,
+    "mtime_ns": 1789627505037450600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03388_hr.hea": {
+    "sha256": "6dc73647a5f4208242b578a242aab4f08d1c5f5dff79567a4845991dce2faebd",
+    "bytes": 609,
+    "mtime_ns": 1789627505042601200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03392_hr.dat": {
+    "sha256": "618512bd95e4a985e556c7a6dc4b3ff29ded1bdd4073ee60a0db6c24ab90d528",
+    "bytes": 120000,
+    "mtime_ns": 1789627505085892800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03392_hr.hea": {
+    "sha256": "039ed69df9c60626c1d89afd3e71e7b9089c3b1c595d93611cb1ef873b21b7fd",
+    "bytes": 614,
+    "mtime_ns": 1789627505091077200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03402_hr.dat": {
+    "sha256": "dfcf85206860a27b52ebf72ab049eaaec276f1c508ca3595ae2d92f2b30056e6",
+    "bytes": 120000,
+    "mtime_ns": 1789627505213825100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03402_hr.hea": {
+    "sha256": "202db376dee9b97602946ad3041731b861ba2f98dd9fd7a99e8028eb5f1f48a5",
+    "bytes": 613,
+    "mtime_ns": 1789627505223434200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03421_hr.dat": {
+    "sha256": "d5da9459efa31a6c9acd407c9e3077a3fb7f891f26e1933db5832426632610f5",
+    "bytes": 120000,
+    "mtime_ns": 1789627505467020300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03421_hr.hea": {
+    "sha256": "0696de5a67e6ef01d4b3b5bf461afb87f163ac75d6c11db567dea690b83a105a",
+    "bytes": 601,
+    "mtime_ns": 1789627505472142200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03535_hr.dat": {
+    "sha256": "1e5015c499eb61383d28b273c779ef52e921ccb51018548d7cb5ef29d01b5069",
+    "bytes": 120000,
+    "mtime_ns": 1789627506984646300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03535_hr.hea": {
+    "sha256": "43435c28404c1114cbf45be3a62aa15453ba99ee48f243ce636d85bdc6512e36",
+    "bytes": 612,
+    "mtime_ns": 1789627506990800000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03621_hr.dat": {
+    "sha256": "f23fe086d44aa798bcbac63d0d57107527f27e5313c67f4a3148aee138d6f709",
+    "bytes": 120000,
+    "mtime_ns": 1789627508062209600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03621_hr.hea": {
+    "sha256": "16d2e6a8a295bbec794ef5207eb4ee7a03a2316a0da4abac7dbee0bdb6d3b337",
+    "bytes": 605,
+    "mtime_ns": 1789627508067771000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03753_hr.dat": {
+    "sha256": "0b7117f9106d61df16ff5fd525964721db170b9dbe80c033adcefef5932e164a",
+    "bytes": 120000,
+    "mtime_ns": 1789627509705004300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03753_hr.hea": {
+    "sha256": "8a4c26d4f197a7571c9b2a989cfea8a3db10145cd248d3588f5e592b6f478dc3",
+    "bytes": 607,
+    "mtime_ns": 1789627509710184200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03768_hr.dat": {
+    "sha256": "207aa6faea404df71ad8700118314a0a5a1bae5bc97d447107cfb1b3a44d2c5e",
+    "bytes": 120000,
+    "mtime_ns": 1789627509909232700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03768_hr.hea": {
+    "sha256": "338893d67a2b46d639081e9b3e418f23527273cecad8aefa4d8b70dff84c4c03",
+    "bytes": 610,
+    "mtime_ns": 1789627509915553400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03778_hr.dat": {
+    "sha256": "5ce58e0e6af8ee71ddacf7a95bcf8b0f5afe5c9894f6725827ebf02eb2a0d7d2",
+    "bytes": 120000,
+    "mtime_ns": 1789627510042225100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03778_hr.hea": {
+    "sha256": "c4f783a30012f0c2d1a0379f32a0403f61830d6308e695dc9ba7d600a82e6450",
+    "bytes": 613,
+    "mtime_ns": 1789627510049342500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03839_hr.dat": {
+    "sha256": "5b8c355797c33592c45a26cdde1d26c12c5b43f12538ecd02ac398a7388ba545",
+    "bytes": 120000,
+    "mtime_ns": 1789627510783092200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03839_hr.hea": {
+    "sha256": "769b26455f5aa1167a78a660e0cdefd4f31780639b7b4be3f079eaa4068564e7",
+    "bytes": 605,
+    "mtime_ns": 1789627510788113800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03840_hr.dat": {
+    "sha256": "ced238086c3de7ef442b1d3fc2b6d6fe199e44cb52d7d6541732c301c05af4bc",
+    "bytes": 120000,
+    "mtime_ns": 1789627510794775500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03840_hr.hea": {
+    "sha256": "4321f3626b20ee5850909f374b7e05172e65880115665f3878c9b71d855d9279",
+    "bytes": 605,
+    "mtime_ns": 1789627510800267100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03845_hr.dat": {
+    "sha256": "2bebc9ce1d2f11af628a8d1366bc09f30664cb1ca196948edec6af472e8dea4d",
+    "bytes": 120000,
+    "mtime_ns": 1789627510856522800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03845_hr.hea": {
+    "sha256": "543477d63635eb04da2053e00c52902d4f395378adacf30af46c4e10c294f340",
+    "bytes": 610,
+    "mtime_ns": 1789627510862615800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03853_hr.dat": {
+    "sha256": "e186d65f0989893e480b25ace0f47025f765ceaab9fbb4519f61634d24ff7904",
+    "bytes": 120000,
+    "mtime_ns": 1789627510965585900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03853_hr.hea": {
+    "sha256": "0f426d0571509ab10b5abeba486967c77bb3ef814adc859d216674c037d9e6d2",
+    "bytes": 607,
+    "mtime_ns": 1789627510970609700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03922_hr.dat": {
+    "sha256": "8a183fda996635cfb0efdad325c967c499bd7dbae83a01dedc40e263e9da8673",
+    "bytes": 120000,
+    "mtime_ns": 1789627511788735300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\03000\\03922_hr.hea": {
+    "sha256": "8ff1523914935690fd8fe6bcf62b162d59e59d28507f2607675aaab1f4e37023",
+    "bytes": 609,
+    "mtime_ns": 1789627511792816400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04022_hr.dat": {
+    "sha256": "5b3ae32b260cb9114d74e592aae20743b80f9095aca762f8c9107ecd46252295",
+    "bytes": 120000,
+    "mtime_ns": 1789627513005750500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04022_hr.hea": {
+    "sha256": "995ea89b0722e152dd0d686b8eddea98e86c91622d73b942fa416ca9aa8785ec",
+    "bytes": 610,
+    "mtime_ns": 1789627513011427800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04129_hr.dat": {
+    "sha256": "3a887205e361c6677943d11049a70a14e3448f4309c84961fa616ff61a1bde00",
+    "bytes": 120000,
+    "mtime_ns": 1789627514369552900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04129_hr.hea": {
+    "sha256": "b07c552166f17b01d0f92160224a2be3ed4f17a5e15ca70e21d3886fec8cddad",
+    "bytes": 610,
+    "mtime_ns": 1789627514377474400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04144_hr.dat": {
+    "sha256": "f30dc9572839314cb8254a8bffdce1888cc1559eb356c3fbadc674184f7315d1",
+    "bytes": 120000,
+    "mtime_ns": 1789627514572085200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04144_hr.hea": {
+    "sha256": "bfee76a0adbc5f0f8e00e37454026c5f0ef51dccfd9fc29d026d6e3a44e18309",
+    "bytes": 604,
+    "mtime_ns": 1789627514577526600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04210_hr.dat": {
+    "sha256": "626bc03053e92bebde7d7559c8657bf81eb15c0a8a4d12f8051a3795501b79b9",
+    "bytes": 120000,
+    "mtime_ns": 1789627515368032600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04210_hr.hea": {
+    "sha256": "006597a0394ba07785026e5aa46c6bb7a3c0216054e2c9688e072384bb18a33e",
+    "bytes": 612,
+    "mtime_ns": 1789627515372786700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04297_hr.dat": {
+    "sha256": "52544271e17c20bbaff4a224af31abb0500885ebaa6ab6ae5fa89bf56afeeda7",
+    "bytes": 120000,
+    "mtime_ns": 1789627516500108200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04297_hr.hea": {
+    "sha256": "be149b45ab40674e27c1b60c229fc5893b1a277a4f56045183669f42d897a930",
+    "bytes": 614,
+    "mtime_ns": 1789627516505417800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04323_hr.dat": {
+    "sha256": "1cb6a4268f4c57481e63efd289e55d25f513b98d8b7faf34167ee3c7a984d019",
+    "bytes": 120000,
+    "mtime_ns": 1789627516815283900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04323_hr.hea": {
+    "sha256": "32523cfadaee4b6c1fb9e3deb7ff626d909f0d7b6c6e916e02ac1a3d45d3e6b3",
+    "bytes": 608,
+    "mtime_ns": 1789627516820836000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04374_hr.dat": {
+    "sha256": "7bd14dddce898f86dabaa83df1dfc3bd92c39be4c73ebfed95f64b870519937b",
+    "bytes": 120000,
+    "mtime_ns": 1789627517490017400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04374_hr.hea": {
+    "sha256": "3e26c1a54fc90c17a734fafde464f25619bb3325235d7d3c876cc3f8c715111e",
+    "bytes": 612,
+    "mtime_ns": 1789627517495120500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04398_hr.dat": {
+    "sha256": "9ba7ec332df3388001db99c27d3feae7562ed0b0d69c2c02ac5e9ba7badfde7f",
+    "bytes": 120000,
+    "mtime_ns": 1789627517801307600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04398_hr.hea": {
+    "sha256": "10c9cc97a98c690f32b226dd5598269105eb949b11f7cfdf1739da13d4abcaef",
+    "bytes": 619,
+    "mtime_ns": 1789627517806372300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04406_hr.dat": {
+    "sha256": "94571c6449015067f7f3676f64d0510f2d24f8704dac4d5bda37ceb71883e3d1",
+    "bytes": 120000,
+    "mtime_ns": 1789627517902607600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04406_hr.hea": {
+    "sha256": "b7ecdabdc2c7fea823d1d63aeee8860f4ee00f7fe1faff9e2070d6e93c781b26",
+    "bytes": 607,
+    "mtime_ns": 1789627517907666400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04481_hr.dat": {
+    "sha256": "2775aea72061fd22b21b9f80d97bec474088fc2691cb4a82a9cc91ac59111a53",
+    "bytes": 120000,
+    "mtime_ns": 1789627518865498200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04481_hr.hea": {
+    "sha256": "f04b2dbf3920d77455f813854a8c2bd9b1965113ea8af138df23b08882540291",
+    "bytes": 609,
+    "mtime_ns": 1789627518874274000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04716_hr.dat": {
+    "sha256": "a82308ea617ce48ff8575d6ead94e80bca456b6e7898f8cb12d619269a18ca50",
+    "bytes": 120000,
+    "mtime_ns": 1789627521884454800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04716_hr.hea": {
+    "sha256": "bf830dbd1a65358dbf85323ff21af35e8b33282fb219c2d99cc45d5a8aceaab9",
+    "bytes": 606,
+    "mtime_ns": 1789627521889506300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04721_hr.dat": {
+    "sha256": "b0496c162e3ceb940514f4988415a8879042826cdaee780bae8f67404340fb34",
+    "bytes": 120000,
+    "mtime_ns": 1789627521943931200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04721_hr.hea": {
+    "sha256": "4a3bc9ac91b24e16e21f7121adf803797ac7172b0246c70d14b880a1c696e76f",
+    "bytes": 605,
+    "mtime_ns": 1789627521949407200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04738_hr.dat": {
+    "sha256": "bb127d1884cd19979a7f7a9d1c29db9516272aabac0c42b596054915dc79f864",
+    "bytes": 120000,
+    "mtime_ns": 1789627522151815100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04738_hr.hea": {
+    "sha256": "b08bf7dabdf906d0fe32d3cc267fcdf682fe6815b206adc0a39fe0f49cfe6de7",
+    "bytes": 618,
+    "mtime_ns": 1789627522157904900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04802_hr.dat": {
+    "sha256": "208eba0df8ac66a5cf1970b4ada0101829a1a91699a96694e21df9f7ec1ad50f",
+    "bytes": 120000,
+    "mtime_ns": 1789627522968753100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04802_hr.hea": {
+    "sha256": "deb47523ea4974668d4cbaf75de42d3fb58868b05597259d70eb07c6039b132d",
+    "bytes": 603,
+    "mtime_ns": 1789627522973955400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04808_hr.dat": {
+    "sha256": "13e596309232fa68019cf8a44c29c632f00cfa278d90d1da0af219f8694cf6eb",
+    "bytes": 120000,
+    "mtime_ns": 1789627523040472900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04808_hr.hea": {
+    "sha256": "558d10720411b4dc53d27936b62fe1f629f75e7798a4dc7d3962fc2e14091205",
+    "bytes": 603,
+    "mtime_ns": 1789627523046052500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04918_hr.dat": {
+    "sha256": "21801559a893171fd0632768132feeb7bf66dd5b89f24e6e8ad0b8af7e62f09d",
+    "bytes": 120000,
+    "mtime_ns": 1789627524527096400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\04000\\04918_hr.hea": {
+    "sha256": "5b2a7a9670c9a823981101479ed03975a7253c2ab3b51b5602041cdf1fa5e367",
+    "bytes": 610,
+    "mtime_ns": 1789627524532252300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05178_hr.dat": {
+    "sha256": "77c302b7098636959aec08c50d37ec1d3e8d6aff17b2cc108cb25b616c1575f5",
+    "bytes": 120000,
+    "mtime_ns": 1789627527956849600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05178_hr.hea": {
+    "sha256": "ad8f70754883b90125671a8ef9b89529a8940079b0af14e361d053234d60453d",
+    "bytes": 603,
+    "mtime_ns": 1789627527963126100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05323_hr.dat": {
+    "sha256": "4fd6c0eec576ca8e00cda6c5fcdc28e8e20135ceba71a22502fe2fd4eeac0cfd",
+    "bytes": 120000,
+    "mtime_ns": 1789627529733107900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05323_hr.hea": {
+    "sha256": "ee4e69267bd1d620443994dc58ddbe8a83f878f7091faa0dc550efb76c57062d",
+    "bytes": 615,
+    "mtime_ns": 1789627529738331400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05415_hr.dat": {
+    "sha256": "ebcda7b60279d412267f098f283920311bf656793d547ac23d0196c94c42904f",
+    "bytes": 120000,
+    "mtime_ns": 1789627530854922700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05415_hr.hea": {
+    "sha256": "7a69e26967c79fd93ab54d6ff1de7f553d7fdf41517ca4223a7b0b438bfc5817",
+    "bytes": 610,
+    "mtime_ns": 1789627530860002400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05453_hr.dat": {
+    "sha256": "15e09ad1b0003bd2cddeed63b1b3157d74861a3809208b639d03d7053dca8293",
+    "bytes": 120000,
+    "mtime_ns": 1789627531319076500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05453_hr.hea": {
+    "sha256": "732ee403278e8257119f4612fe1ab8798fd682338de54b2b28cbd8ac488d360b",
+    "bytes": 610,
+    "mtime_ns": 1789627531324260300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05457_hr.dat": {
+    "sha256": "75f185086155a0f436941cce5d9b0dee2ba9edb0d866669598914482b15c7015",
+    "bytes": 120000,
+    "mtime_ns": 1789627531370245300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05457_hr.hea": {
+    "sha256": "fd78f2e9969d887f9c5a2b3280c8741449caf25b7c67e4d3dc0f5d886880293b",
+    "bytes": 607,
+    "mtime_ns": 1789627531375523200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05484_hr.dat": {
+    "sha256": "d57b52db4a1081ec52959a8bc92a7e53f6211307ab8d35160310665c23addbd0",
+    "bytes": 120000,
+    "mtime_ns": 1789627531696277800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05484_hr.hea": {
+    "sha256": "a4b3525d6199eb3b74d535147628bafdcf94263854cbc53521551663243c3006",
+    "bytes": 612,
+    "mtime_ns": 1789627531702771000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05534_hr.dat": {
+    "sha256": "1a2c08d81e8c411fcf997ef1e8724ee29a236318767aaf917df4347a13e3e21f",
+    "bytes": 120000,
+    "mtime_ns": 1789627532350776500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05534_hr.hea": {
+    "sha256": "9c50a79c7c0292d4a1e097b45eaf513addc8e008f49bca4ff498dd391ead1c2d",
+    "bytes": 600,
+    "mtime_ns": 1789627532355938700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05550_hr.dat": {
+    "sha256": "0e1a08fc62cd7d65e9b5c581812b145494b3e4015080e49d4a4fe3a0bf096616",
+    "bytes": 120000,
+    "mtime_ns": 1789627532566262600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05550_hr.hea": {
+    "sha256": "b2c975a5e91f861a7d50c8ea39eb8ea033e0efd4cb173507b2e8a381db061ce9",
+    "bytes": 612,
+    "mtime_ns": 1789627532571982700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05657_hr.dat": {
+    "sha256": "33440dff0cc1af1321c1179ec5fe2665973fc540b6e9c47755d2e430ff932c58",
+    "bytes": 120000,
+    "mtime_ns": 1789627533878034800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05657_hr.hea": {
+    "sha256": "6ff0e825116a733d11e84de9737d56468b87354f33356014077b6b5b8e73fd3e",
+    "bytes": 613,
+    "mtime_ns": 1789627533883549400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05705_hr.dat": {
+    "sha256": "f4aa7052421e3874f312d25a606b8a3c553920f82caa72092ab5dc4cf6ccfcbf",
+    "bytes": 120000,
+    "mtime_ns": 1789627534556020600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05705_hr.hea": {
+    "sha256": "f1eb005c760b854eb8c0cc1d0b2fa5ca04fa96789d48230965dc0d6667ecf78b",
+    "bytes": 602,
+    "mtime_ns": 1789627534564760500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05783_hr.dat": {
+    "sha256": "8fa05fd9229d91717a12e7cde3c7e0a144604e525c1751197432d220e43f221b",
+    "bytes": 120000,
+    "mtime_ns": 1789627535743281600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05783_hr.hea": {
+    "sha256": "054c0cb359e980c6644de1371a7ac8ff700819cfb95770f30214179db9f1ebcb",
+    "bytes": 613,
+    "mtime_ns": 1789627535748906200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05823_hr.dat": {
+    "sha256": "065ec46ba1408bb96a18f39101cd530df71dca783f7393464fbf5b15b457d5ec",
+    "bytes": 120000,
+    "mtime_ns": 1789627536274192300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05823_hr.hea": {
+    "sha256": "1c5b05aa115bbe736146543784f1ef17530ac0e267a58009374ed0cb731d2c7e",
+    "bytes": 607,
+    "mtime_ns": 1789627536280640300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05843_hr.dat": {
+    "sha256": "e2f480211669a4d72ae597c107c22b381e92cd1c4df7f015086d85138a02b5cf",
+    "bytes": 120000,
+    "mtime_ns": 1789627536542984100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05843_hr.hea": {
+    "sha256": "9df394253014cba675d6c7bf82f1c1c28cbc18202d8b56aa80762adb9d06c5c4",
+    "bytes": 608,
+    "mtime_ns": 1789627536549174200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05887_hr.dat": {
+    "sha256": "7f6f840208098d4f8a3799326de7101a66a5355c3977776eb96800dc4e1b09b3",
+    "bytes": 120000,
+    "mtime_ns": 1789627537128092100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05887_hr.hea": {
+    "sha256": "44ed181a10cc3007ebe7d965abd59f5d270e957e8ad609538bb5a212aed1516c",
+    "bytes": 615,
+    "mtime_ns": 1789627537135414900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05962_hr.dat": {
+    "sha256": "a8f2f90e84b828cfcb754b44e2d82d4395270b82db7c221d38b5207d9859223a",
+    "bytes": 120000,
+    "mtime_ns": 1789627538128001700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05962_hr.hea": {
+    "sha256": "3e5cf8ef3a3f64304a76c816813d825f4d1c44db370b0627d39e42446b267d25",
+    "bytes": 614,
+    "mtime_ns": 1789627538134219500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05984_hr.dat": {
+    "sha256": "c2b98e2d6073ad4713bb81624b585c34846170f2a3f30019077850ee8b8bc1f2",
+    "bytes": 120000,
+    "mtime_ns": 1789627538404888300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\05000\\05984_hr.hea": {
+    "sha256": "fcd56cf2a5164ef9ff2a1069fb9b277e14f41b1663ab6aa8e5c292d38f9126b0",
+    "bytes": 607,
+    "mtime_ns": 1789627538411006300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06051_hr.dat": {
+    "sha256": "b1b9a54220961eb0231aa12be74d44142b5f441bd139f8035b5c77415ffe54d1",
+    "bytes": 120000,
+    "mtime_ns": 1789627539292271600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06051_hr.hea": {
+    "sha256": "0781a60ff66e168d5956996e2d529be4dc64a9098d57c0f57f69df4ec9b0dae1",
+    "bytes": 605,
+    "mtime_ns": 1789627539299047800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06102_hr.dat": {
+    "sha256": "f0ad95d3d50b7404b5474c483f78cf2f3901b22e891bb946e6d632aa2d1faa60",
+    "bytes": 120000,
+    "mtime_ns": 1789627539927911700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06102_hr.hea": {
+    "sha256": "e378872ff6b6b514a62a4111899382aa6a8138932d6f2ff3ddf94be89172338b",
+    "bytes": 605,
+    "mtime_ns": 1789627539933128800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06146_hr.dat": {
+    "sha256": "7804131607a068f53e9341a12891ab1b8547ecb41f48cb98129356eba69e2e97",
+    "bytes": 120000,
+    "mtime_ns": 1789627540511799200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06146_hr.hea": {
+    "sha256": "968e195d21946394e91945630a32904e40709985cb0f828c74e8194fd84e46f5",
+    "bytes": 616,
+    "mtime_ns": 1789627540518233600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06250_hr.dat": {
+    "sha256": "5de5717d79ca19c677965f346f40d33afaf995c749fa75202a3de76c9505b899",
+    "bytes": 120000,
+    "mtime_ns": 1789627541831984100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06250_hr.hea": {
+    "sha256": "de7df73e0c0267b2deeddb96c4dde87a9040c5f52a49769946703c18c2d4979f",
+    "bytes": 609,
+    "mtime_ns": 1789627541837104700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06278_hr.dat": {
+    "sha256": "0aa2a748c28d6562fed4983f29f313321afa72d4847b0c9988e4d35f2f94d9d9",
+    "bytes": 120000,
+    "mtime_ns": 1789627542193817800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06278_hr.hea": {
+    "sha256": "5bd7841678b7339bfb6f171c37ce1794a95d42458a6249c2331de08c911f1e88",
+    "bytes": 611,
+    "mtime_ns": 1789627542200961100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06347_hr.dat": {
+    "sha256": "036158fc419d9529032e057384f40ba7af32deae5d759ebfded33f6061d61cee",
+    "bytes": 120000,
+    "mtime_ns": 1789627543181264900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06347_hr.hea": {
+    "sha256": "54ebb8f14f28d2ce498c07f98a57c2bf457c3e5d0303862ea873d5b11ffb2de7",
+    "bytes": 615,
+    "mtime_ns": 1789627543186754800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06401_hr.dat": {
+    "sha256": "2b68b26ea5ef420f0be99237465bf566572eb25b19f8549ad83952ceb098d08a",
+    "bytes": 120000,
+    "mtime_ns": 1789627543872802300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06401_hr.hea": {
+    "sha256": "97e207580347e85ba8b1aae7ba0b537efb6d64d18afaf1afd2f882cdcf3a8802",
+    "bytes": 603,
+    "mtime_ns": 1789627543878310100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06534_hr.dat": {
+    "sha256": "9cd82908cf5feee570108a31c1f8290e4eab2b0b395521220310f440852bf178",
+    "bytes": 120000,
+    "mtime_ns": 1789627545509960600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06534_hr.hea": {
+    "sha256": "1f32972314c8f3abcde2cfeb87d1b55f941a0e6bd6b54d8ffcbadd493636e21f",
+    "bytes": 610,
+    "mtime_ns": 1789627545514693500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06554_hr.dat": {
+    "sha256": "36d2b1b614e0dded127000b73292ec605fe2dee851147df35bef9261016df55c",
+    "bytes": 120000,
+    "mtime_ns": 1789627545803551400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06554_hr.hea": {
+    "sha256": "822f65cfa1e2fc38de41ba73f0d09e20fc91238619e69478438530f53faf97d5",
+    "bytes": 608,
+    "mtime_ns": 1789627545808819100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06611_hr.dat": {
+    "sha256": "bb17188c3a6a20b1f7fe6aeb515ecdf9a0a25752b9dea488f8d419944858a879",
+    "bytes": 120000,
+    "mtime_ns": 1789627546672984900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06611_hr.hea": {
+    "sha256": "19ed86ca2cf83a9c13a0f9d50b5f4e94f45fe30b8cc89888c3415083fb1c299d",
+    "bytes": 611,
+    "mtime_ns": 1789627546678169100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06624_hr.dat": {
+    "sha256": "b80e210587e5b17911d989c19a6da539ff563f84fd48d96aa22a4a786d01c591",
+    "bytes": 120000,
+    "mtime_ns": 1789627546837239100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06624_hr.hea": {
+    "sha256": "dd11cd09fc7d41a190f0a60b819c207ebd2bc0d8a1d60f6b451a0d5da9626403",
+    "bytes": 610,
+    "mtime_ns": 1789627546844749900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06635_hr.dat": {
+    "sha256": "d0047300781f051ce66d995c6f23feffa3042d817111cf2c4619f76de964c307",
+    "bytes": 120000,
+    "mtime_ns": 1789627546965910400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06635_hr.hea": {
+    "sha256": "a46a5944bd1c42543752764c38ba3c2b340b7ba7438f1f26807123b34b058456",
+    "bytes": 610,
+    "mtime_ns": 1789627546973941800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06888_hr.dat": {
+    "sha256": "1b658144524ddcbc16e277dbab62cc68291903bf001b913a7109963c1dcbd0dd",
+    "bytes": 120000,
+    "mtime_ns": 1789627550073442100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06888_hr.hea": {
+    "sha256": "f82628d81bff2c4065701b5d1653a505d062830e118d435e4025514712f4a5ce",
+    "bytes": 619,
+    "mtime_ns": 1789627550078625000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06930_hr.dat": {
+    "sha256": "585df130a31b71e48f05d57dc8964feef8638d5e8c679a98e84fe863101d5599",
+    "bytes": 120000,
+    "mtime_ns": 1789627550697648300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\06000\\06930_hr.hea": {
+    "sha256": "dc07fc6af91985777b44affe0260c2a2147b93bb09346cff3cc851648c8d05c0",
+    "bytes": 613,
+    "mtime_ns": 1789627550702925900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07184_hr.dat": {
+    "sha256": "a2d64bf8eea59c015de29fc09113c84fefd6c1c6833128abf16c3bcaa8e0e2de",
+    "bytes": 120000,
+    "mtime_ns": 1789627554025832700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07184_hr.hea": {
+    "sha256": "525d845ee4a2f2b1c6d8f7a75b0cbc629d2dcbbca1950fefa067f7fba614bfd9",
+    "bytes": 604,
+    "mtime_ns": 1789627554032349500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07198_hr.dat": {
+    "sha256": "ae432f8e16e59c3ab7ec5e35349b2dcc78fec3a2e56c72fea253d7c5f11bbbcf",
+    "bytes": 120000,
+    "mtime_ns": 1789627554198048100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07198_hr.hea": {
+    "sha256": "fd80bd5bf4a94a629031515ce6b34b08026885faf9e08ee8a0ad09bb3b724782",
+    "bytes": 617,
+    "mtime_ns": 1789627554202480900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07410_hr.dat": {
+    "sha256": "4a67e0c226c91f81ce65dd4b019638010013bfd470e499a0db959c830692aabd",
+    "bytes": 120000,
+    "mtime_ns": 1789627556964328200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07410_hr.hea": {
+    "sha256": "9a1b700e69700ebfedb82895322518e94ba27780e35c2e8b4b9dc19e3fbe26bb",
+    "bytes": 616,
+    "mtime_ns": 1789627556970015400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07420_hr.dat": {
+    "sha256": "baf6e262d329259e58c95d8502b6f1fc7d52503e6439a03cb4c14e0c37e8ce3c",
+    "bytes": 120000,
+    "mtime_ns": 1789627557093245100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07420_hr.hea": {
+    "sha256": "9509e88555fa4c360b5df442c2a0f4b4d5d70c0b6fd3467aa6a560657dc4ca28",
+    "bytes": 614,
+    "mtime_ns": 1789627557097815000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07439_hr.dat": {
+    "sha256": "b8df50ded8d48f1f48fc83b52ca8db035ff06e65ef15ae143b11f8bfe3257ffd",
+    "bytes": 120000,
+    "mtime_ns": 1789627557316861500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07439_hr.hea": {
+    "sha256": "20c6a7a9c2e5fd90e568ddc15fee8595fea28541a014b35d6be6a3cf264d1779",
+    "bytes": 608,
+    "mtime_ns": 1789627557321992100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07503_hr.dat": {
+    "sha256": "db18fb9d381a8c0e5181c2787981e14eb416de456c06c0532587d78da442f051",
+    "bytes": 120000,
+    "mtime_ns": 1789627558073418400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07503_hr.hea": {
+    "sha256": "c1e0d79407113cb4150f159789c60c407c5349a67cf927a7b1fac29edc042886",
+    "bytes": 604,
+    "mtime_ns": 1789627558077614300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07564_hr.dat": {
+    "sha256": "f46e88e8e67e7218e951b02e550d0754b1f74e58233c87d44b6ed92dac346636",
+    "bytes": 120000,
+    "mtime_ns": 1789627558862097600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07564_hr.hea": {
+    "sha256": "75db11aaa05361a1ed0d0f7c450dfe5e71640fbedbc7cbeb31601b15e3dbe39c",
+    "bytes": 618,
+    "mtime_ns": 1789627558867042300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07659_hr.dat": {
+    "sha256": "9e64e642162b9e3b95e7ba441671fca02b8c6969801145905558f9e7ea802cc6",
+    "bytes": 120000,
+    "mtime_ns": 1789627560097818800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07659_hr.hea": {
+    "sha256": "c735f8d312a8e6db04dffe8e3db6f2b283747a53d2b1421f223017aa206650a9",
+    "bytes": 607,
+    "mtime_ns": 1789627560102975900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07844_hr.dat": {
+    "sha256": "2259872e06df7a8f274a50db2477b578f75ccbb472a974a866252ca55227a881",
+    "bytes": 120000,
+    "mtime_ns": 1789627562395642200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07844_hr.hea": {
+    "sha256": "be4e474cf2be8f05c6f4766d2d367058a3102c2ffed2262434af9edf1f995d55",
+    "bytes": 614,
+    "mtime_ns": 1789627562401302900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07911_hr.dat": {
+    "sha256": "0f635a31614e49f2def07521177c742805a6b3064432303a377e4ae2fdb7c765",
+    "bytes": 120000,
+    "mtime_ns": 1789627563174844400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\07000\\07911_hr.hea": {
+    "sha256": "2a001cba5cab1d8fc1abe2d3ec24f40a516f85ec4feae07f3b603fe85ee1b675",
+    "bytes": 620,
+    "mtime_ns": 1789627563180135100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08022_hr.dat": {
+    "sha256": "f27c964b39945dc322a721b7e5a34e6e0e0c73701166b48f3ab757e45bf85424",
+    "bytes": 120000,
+    "mtime_ns": 1789627564556338300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08022_hr.hea": {
+    "sha256": "d13373c933944c48dd1c2aa776f331647690b722675a931dd8bd0cfec37550fa",
+    "bytes": 614,
+    "mtime_ns": 1789627564562058600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08049_hr.dat": {
+    "sha256": "1dd68942018a9665189e630246a1050cd22d571640112b90c7bd65b4d5c5f9bd",
+    "bytes": 120000,
+    "mtime_ns": 1789627564879433700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08049_hr.hea": {
+    "sha256": "4e2191c059666c62a4b014f4dac47c774dbe664f0e2bf6788663570021143a7d",
+    "bytes": 608,
+    "mtime_ns": 1789627564884616900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08211_hr.dat": {
+    "sha256": "aa058b44b62ebf1a7cacd4492f318f7d6217bd22d8f92c2f2edf41498ee3e22b",
+    "bytes": 120000,
+    "mtime_ns": 1789627566814916400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08211_hr.hea": {
+    "sha256": "d987f0754e4b2a4e63037b20db172ec76037afe571dd15c1d8c2433bbf950c78",
+    "bytes": 606,
+    "mtime_ns": 1789627566820020400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08308_hr.dat": {
+    "sha256": "9e18489c5dd9404be0c149ef34717d96e2632c23290932f51b7b863128e68641",
+    "bytes": 120000,
+    "mtime_ns": 1789627567977631500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08308_hr.hea": {
+    "sha256": "dd39af78891aeb8395070a43cbfc9c8be6e4a76fdd28efd2503f6baa685c40e4",
+    "bytes": 619,
+    "mtime_ns": 1789627567982773200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08314_hr.dat": {
+    "sha256": "e87599cc14b9ea84af302fb1a55b8fc6ed91a5b5a2d63e08b5d764d30f155cc3",
+    "bytes": 120000,
+    "mtime_ns": 1789627568058276700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08314_hr.hea": {
+    "sha256": "06741256c0fe582c7c6d7fa006532754ef22801fb6c56f59e674f88d3439ae55",
+    "bytes": 610,
+    "mtime_ns": 1789627568063442200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08315_hr.dat": {
+    "sha256": "046007cf4b6a115d26f0ad673aaaa9652a24329adfa89a0a3a8f35d06c66b500",
+    "bytes": 120000,
+    "mtime_ns": 1789627568070860800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08315_hr.hea": {
+    "sha256": "109f2fc39906d1402cb4fd12aea543bfa4673fa5fee280a22714e89b9ef04c22",
+    "bytes": 608,
+    "mtime_ns": 1789627568076226600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08385_hr.dat": {
+    "sha256": "698086a04944f11e36d932a0ce54be5401d2e9c14edebc050acb3638bc6707e4",
+    "bytes": 120000,
+    "mtime_ns": 1789627569009031600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08385_hr.hea": {
+    "sha256": "f663f30a2c4833d0ba75ab8307248f27797abce8110d2a1fb95260e2f5ce9cc4",
+    "bytes": 616,
+    "mtime_ns": 1789627569014134300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08456_hr.dat": {
+    "sha256": "2365595081b9787b8d49a0d7fbcc1042dce1d79c4c08162a3e6b9c24f581876c",
+    "bytes": 120000,
+    "mtime_ns": 1789627569912312300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08456_hr.hea": {
+    "sha256": "932b402d9e2a20d4a1289f9793724d2b1ccd00882441854f4bcfa28061f4c33d",
+    "bytes": 605,
+    "mtime_ns": 1789627569917436500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08526_hr.dat": {
+    "sha256": "e26c60855383650b843f572452824bbeae3f848193343b28193f80f751aca0eb",
+    "bytes": 120000,
+    "mtime_ns": 1789627570830630900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08526_hr.hea": {
+    "sha256": "33dcaeb2ccfb528c6d8297be0ecef8d213fd65ad3e272881b1f12c89a1b98456",
+    "bytes": 606,
+    "mtime_ns": 1789627570835731200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08649_hr.dat": {
+    "sha256": "cc24cd1fd016515bc33dfe8d2b306ac372122428d37dda8af70069e7d6b3e96e",
+    "bytes": 120000,
+    "mtime_ns": 1789627572379315800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08649_hr.hea": {
+    "sha256": "820756eba864d3fd0a71c91b6195591f1ea05b1c172fb52f7d039fdc13323bab",
+    "bytes": 612,
+    "mtime_ns": 1789627572384382000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08718_hr.dat": {
+    "sha256": "85a8101fc82e89f49f2f99ed0014ef980951b17c07664cf3b96ce59c5a5aaea5",
+    "bytes": 120000,
+    "mtime_ns": 1789627573268101800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08718_hr.hea": {
+    "sha256": "33aea6220966e8a1e14aa09c023b9a50bb51e1b7e0d3fa69e58efaac7bc653e9",
+    "bytes": 607,
+    "mtime_ns": 1789627573273492200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08806_hr.dat": {
+    "sha256": "4a659af18627c0c7df377901fe2680bd58564af3d41c10e1ffa27ea111baf4c4",
+    "bytes": 120000,
+    "mtime_ns": 1789627574873292900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08806_hr.hea": {
+    "sha256": "090dedbccf1fe81308ea858b9be1c7c68aff8dd69c0c3d9c02369b4dc57c7192",
+    "bytes": 609,
+    "mtime_ns": 1789627574879394800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08871_hr.dat": {
+    "sha256": "059ae43a5acbe4dd426978adfbfdd49325d1024a9c62243d888200b91dc226a5",
+    "bytes": 120000,
+    "mtime_ns": 1789627575975115500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08871_hr.hea": {
+    "sha256": "226bc2eceb46a4472a1a310234a9613b9e137cdfabaafd58e2cab3b39081892f",
+    "bytes": 607,
+    "mtime_ns": 1789627575981533600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08878_hr.dat": {
+    "sha256": "3371af2a117bcf29acf0649e73a45d1660e91c20c56538e4eb0dd7a06e716ea6",
+    "bytes": 120000,
+    "mtime_ns": 1789627576077965700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08878_hr.hea": {
+    "sha256": "ccce646d4059978cf15ae9005cd1947bdf96a75d8f7586c3016648d506df2ba5",
+    "bytes": 608,
+    "mtime_ns": 1789627576083566900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08940_hr.dat": {
+    "sha256": "e709d9003bbddbb54956805b1b3f050554121d023374af395d5af5c0fd238cb8",
+    "bytes": 120000,
+    "mtime_ns": 1789627576924566600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\08000\\08940_hr.hea": {
+    "sha256": "30d1f7931122781dba883a29914697f163c38fa99d217cb9a05e01777c3ef1b7",
+    "bytes": 613,
+    "mtime_ns": 1789627576929870100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09005_hr.dat": {
+    "sha256": "5e478d666321fc8d21de71b8f3857ad4d157b4f863f68d74c8dd62e320f2285d",
+    "bytes": 120000,
+    "mtime_ns": 1789627577826376600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09005_hr.hea": {
+    "sha256": "d4a1126b749051f0fedabfb745997c5497fd5e619f745b541006d2ced7da8eee",
+    "bytes": 622,
+    "mtime_ns": 1789627577832723500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09057_hr.dat": {
+    "sha256": "c0872e706c284732bce8ad024df3604e2516530b64821cfd5bfd64651c18335c",
+    "bytes": 120000,
+    "mtime_ns": 1789627578526319000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09057_hr.hea": {
+    "sha256": "9bbc253d84e4f23b503550d9eedcd4c7c5138e6d38fb73dc165a4cedceb1f4c4",
+    "bytes": 608,
+    "mtime_ns": 1789627578532683400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09112_hr.dat": {
+    "sha256": "6ef4fb1863d583c5ffb01c3eee448092c2d8b70ea817a1bd530ae4b39b901e34",
+    "bytes": 120000,
+    "mtime_ns": 1789627579253795600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09112_hr.hea": {
+    "sha256": "e147b680b7cdd0484084e49e885a18df17e993d9a68f287f87d416e8d9065fb0",
+    "bytes": 611,
+    "mtime_ns": 1789627579259438500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09285_hr.dat": {
+    "sha256": "32a40d39aedbcc75c71cf6a11c821081ea36a30d5d531b11c6bdfa35082da5ef",
+    "bytes": 120000,
+    "mtime_ns": 1789627581498129900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09285_hr.hea": {
+    "sha256": "b867890da7a9b202e0daadde0a21198a202033acaf8c1e8934e8e981194cd707",
+    "bytes": 604,
+    "mtime_ns": 1789627581504477500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09535_hr.dat": {
+    "sha256": "53d4e1df834953778a0ee04b89bac39c9b972bec7d7ba52263255eac37353566",
+    "bytes": 120000,
+    "mtime_ns": 1789627584685716300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09535_hr.hea": {
+    "sha256": "90c14ea98813abb5ffd027498a6877b140ab6564d704827994ac761247dcdeee",
+    "bytes": 606,
+    "mtime_ns": 1789627584690780600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09568_hr.dat": {
+    "sha256": "965b706051e7973d375399251b55e683146c6259d06c160222a197f9688a3919",
+    "bytes": 120000,
+    "mtime_ns": 1789627585104741700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09568_hr.hea": {
+    "sha256": "e2133a32080771d230ef4a5944bfae5ebc1c710f5d0ec6f47ac5071a5350b142",
+    "bytes": 609,
+    "mtime_ns": 1789627585110827400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09605_hr.dat": {
+    "sha256": "535eb4576db954bb6d36636b8d1703f9ba52008ab45bbfe82521ae27d8eceaeb",
+    "bytes": 120000,
+    "mtime_ns": 1789627585576143100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09605_hr.hea": {
+    "sha256": "3b9fb47ddc24a2c260a59d9fa4d561c45b49be06a5dc014cf00f7a86a8527ca3",
+    "bytes": 611,
+    "mtime_ns": 1789627585582770300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09747_hr.dat": {
+    "sha256": "eec576c08e442a331b7906317adb6d6c0427e64787b097997e8958bd52fdf3b2",
+    "bytes": 120000,
+    "mtime_ns": 1789627587388537700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09747_hr.hea": {
+    "sha256": "7efa07961488c10802f515941b1923a1375d988e2b9d0bac5ce95ddbfe361607",
+    "bytes": 609,
+    "mtime_ns": 1789627587393599300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09782_hr.dat": {
+    "sha256": "13541f4ed1a7f509e1747aec509685f6df900a7c2012c7155d186e2d0ba924d2",
+    "bytes": 120000,
+    "mtime_ns": 1789627587838531500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09782_hr.hea": {
+    "sha256": "9c4ad14df9e419d774c2bc4c0573be1bb0f4d3ea39ef71bec94b426c11b7a0b3",
+    "bytes": 614,
+    "mtime_ns": 1789627587843587400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09801_hr.dat": {
+    "sha256": "92dc130fe939da744cf8a40517cc4a26014d5b889569399542289fed4d047f67",
+    "bytes": 120000,
+    "mtime_ns": 1789627588086552500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09801_hr.hea": {
+    "sha256": "b333a2aade54023790ef9aaa5a121deda7166f5ebd56fc98a7b32f38d46b34ec",
+    "bytes": 613,
+    "mtime_ns": 1789627588091926100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09805_hr.dat": {
+    "sha256": "d91b25c70c81ea03e3e566d2aefbdf40c3e3c0b7fd7a8dd024824df37473e513",
+    "bytes": 120000,
+    "mtime_ns": 1789627588136711600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09805_hr.hea": {
+    "sha256": "f118599b1df31f04e7b784f8cf2ab2de3363305e578bb1decda2345d2f1b5cfa",
+    "bytes": 613,
+    "mtime_ns": 1789627588142846800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09843_hr.dat": {
+    "sha256": "336cd2df030758cea0a63578b8f42d339034864868869f7d13c2d34e9d1e9492",
+    "bytes": 120000,
+    "mtime_ns": 1789627588597748300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09843_hr.hea": {
+    "sha256": "2d5c023479cd0d6fd4594050a4a9af490fac31f1e8aca4600ce44f1d20534730",
+    "bytes": 607,
+    "mtime_ns": 1789627588603991400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09868_hr.dat": {
+    "sha256": "fe292227c4245b853eaf898579763157f6d67e4fca23e3bfa45cef4af1ec56a8",
+    "bytes": 120000,
+    "mtime_ns": 1789627588923980800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\09000\\09868_hr.hea": {
+    "sha256": "1570375210ca4148c0d919691717bf73b6a37751b245eb2888cb6463be1176f8",
+    "bytes": 611,
+    "mtime_ns": 1789627588929386700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10121_hr.dat": {
+    "sha256": "8c835bbce8cdeae5b87f7949b4c29c7c875afbbc29861e52b4106e8e82d347bf",
+    "bytes": 120000,
+    "mtime_ns": 1789627592156877300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10121_hr.hea": {
+    "sha256": "222232a2a3f4e4e42c5a1c4d4a749f2d5df37d09b81c5fe208de8a95ea656137",
+    "bytes": 616,
+    "mtime_ns": 1789627592162033500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10129_hr.dat": {
+    "sha256": "e71889dc8be3da6a966a01929a84fa6d1a8af3a8835db1b5e04eb66d4011900a",
+    "bytes": 120000,
+    "mtime_ns": 1789627592258455500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10129_hr.hea": {
+    "sha256": "ed779a72ac66accba4b55d638a88250d6d3891421770095795561fec28493464",
+    "bytes": 604,
+    "mtime_ns": 1789627592263684900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10239_hr.dat": {
+    "sha256": "34e9219fb2f2149bb39175f29ed7fdd087156c41b787825cde2b16b8e06c5b98",
+    "bytes": 120000,
+    "mtime_ns": 1789627593631239300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10239_hr.hea": {
+    "sha256": "4db696230cfc53195a535661b63ffd703a02d493214d98bdef1bdae634541aef",
+    "bytes": 620,
+    "mtime_ns": 1789627593636393100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10551_hr.dat": {
+    "sha256": "5cee5ea2bfdf2345964da33f0154e877ad5a085bf55e8451657bc530d21b2b4b",
+    "bytes": 120000,
+    "mtime_ns": 1789627597596706500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10551_hr.hea": {
+    "sha256": "4dd0d759d8934817b21cc03d795990030d9a072ec28f0fb7a8827f411b041ed9",
+    "bytes": 613,
+    "mtime_ns": 1789627597601969900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10602_hr.dat": {
+    "sha256": "772e2f858bf67e61c987e8eaf3c4b73e0a6636d4aa0c95d43c6ba60f6ee779ff",
+    "bytes": 120000,
+    "mtime_ns": 1789627598248880100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10602_hr.hea": {
+    "sha256": "9cffa565dd2aeef615b299ba3f17d57fe548b83d4a67f57729dbeff4f0417849",
+    "bytes": 600,
+    "mtime_ns": 1789627598254279500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10672_hr.dat": {
+    "sha256": "75c8e196b6bf69c05f86e678ec0370e527d4ddad62583362d668beb1ae44feb3",
+    "bytes": 120000,
+    "mtime_ns": 1789627599161915600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10672_hr.hea": {
+    "sha256": "7eade177e352eebf13795a25c91a6d4bce1acfc74813c5987b03f5c893267863",
+    "bytes": 610,
+    "mtime_ns": 1789627599166234100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10702_hr.dat": {
+    "sha256": "8005b25235537d493ecc221b2cd1568a8f362bb18f1d83af44f6f8a8fe8de2b8",
+    "bytes": 120000,
+    "mtime_ns": 1789627599544884800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10702_hr.hea": {
+    "sha256": "05f0ce17937b592147f15adbcf86c8082ac4d83a4ab5f8e7d2f6284df99748f4",
+    "bytes": 615,
+    "mtime_ns": 1789627599549896500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10703_hr.dat": {
+    "sha256": "ea23f9ae5f914fb5fb4458c82d328ed95988a6e707d32b5412398e82362c377e",
+    "bytes": 120000,
+    "mtime_ns": 1789627599556837200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10703_hr.hea": {
+    "sha256": "7cdae96ab95f9e4ca053b277e3992a082d516e3d25cc7fdb36e01016097b0725",
+    "bytes": 610,
+    "mtime_ns": 1789627599562460800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10746_hr.dat": {
+    "sha256": "74308b828e6bef8c6bc144d9494eb6d6a5639bbfde7edab23d0eaf3265cb6d83",
+    "bytes": 120000,
+    "mtime_ns": 1789627600103937800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10746_hr.hea": {
+    "sha256": "e760853869770a9255443bfd3235cca5f939ff1425312b6f038c2c1bcf466d96",
+    "bytes": 603,
+    "mtime_ns": 1789627600109164300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10811_hr.dat": {
+    "sha256": "a1f72d61f372e95bb04a4e901e22aee6f9dc157aebe0d863e21bc200258a95e7",
+    "bytes": 120000,
+    "mtime_ns": 1789627600941667800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10811_hr.hea": {
+    "sha256": "fd35522b14b88f233ab269873365725640a629e6c16766a9e1c749d3d4a786d5",
+    "bytes": 610,
+    "mtime_ns": 1789627600947064000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10907_hr.dat": {
+    "sha256": "53c03e9df5a561ced034ce54b92bad4f191d50e7c5555757208dd82b5c8567af",
+    "bytes": 120000,
+    "mtime_ns": 1789627602173205600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10907_hr.hea": {
+    "sha256": "61f08e3232bb1150b217217463f331b4b7b8934d9c88d841a90ee629b16c8613",
+    "bytes": 604,
+    "mtime_ns": 1789627602178685500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10971_hr.dat": {
+    "sha256": "aaffbf23c936b0020d073f0110f3f842afecb80f9a1cb598e542550128913126",
+    "bytes": 120000,
+    "mtime_ns": 1789627602994346500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10971_hr.hea": {
+    "sha256": "26a8be238389e2ff56ed7374a6606db11a32ad8c2b0893d21e3dbb03dadd60ac",
+    "bytes": 605,
+    "mtime_ns": 1789627603000361200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10989_hr.dat": {
+    "sha256": "c249d86da404a25ea9e3b6eb7c7194015ac2876a93ee205149faa12c72a8e8f1",
+    "bytes": 120000,
+    "mtime_ns": 1789627603224646800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10989_hr.hea": {
+    "sha256": "a3e91cdc05604d1825c127407fd29b0d8a0fa6519259469a51ff063625bb698c",
+    "bytes": 604,
+    "mtime_ns": 1789627603229946300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10992_hr.dat": {
+    "sha256": "6b85c3f4fdf9731d4b51157acc1a8fd202e8cc198eec75b4942b31fa34b78a75",
+    "bytes": 120000,
+    "mtime_ns": 1789627603262780500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\10000\\10992_hr.hea": {
+    "sha256": "e32c460046d8962335050c8bc80a35edd96c699c07ebaf99ff286a391f1dc28f",
+    "bytes": 599,
+    "mtime_ns": 1789627603268277700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11011_hr.dat": {
+    "sha256": "d81d4005c8720bd547caa402f13d1ca00beba542d43d30447025046edfce6a4b",
+    "bytes": 120000,
+    "mtime_ns": 1789627603510453300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11011_hr.hea": {
+    "sha256": "d293ef1761e2e245518029f8ae9612cdf883706545846f2f7c928662d60844c5",
+    "bytes": 613,
+    "mtime_ns": 1789627603514948900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11163_hr.dat": {
+    "sha256": "69d72fd15fafed3c4a4e93c4bfc2347a70b651a80b54cb06486e7788fa483415",
+    "bytes": 120000,
+    "mtime_ns": 1789627605476087800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11163_hr.hea": {
+    "sha256": "ee6cb1c0d32ba11c11de7e0a5e80e1b5a58f08d3dce6df98d5190afea699ebe0",
+    "bytes": 607,
+    "mtime_ns": 1789627605481325600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11337_hr.dat": {
+    "sha256": "cfc774841dbdaa65ab14b75e9bb39041d1109ebb2bda378b8afd68ab84ccde86",
+    "bytes": 120000,
+    "mtime_ns": 1789627607734436900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11337_hr.hea": {
+    "sha256": "c42c82ac4dc57e2cc59324d8d08449d1c2a100fbeddbce2f181da21171ed0fbf",
+    "bytes": 608,
+    "mtime_ns": 1789627607739895900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11338_hr.dat": {
+    "sha256": "95a9a19eae2aea31657b159c3bae5b2723347e9cc348a26631b61958c9a72ddb",
+    "bytes": 120000,
+    "mtime_ns": 1789627607747114000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11338_hr.hea": {
+    "sha256": "7d1a77800b0ad3a4cb317992598d1a519b43331dd73966b151a79bc68df21246",
+    "bytes": 609,
+    "mtime_ns": 1789627607752728500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11404_hr.dat": {
+    "sha256": "6e6405bbe39d6b14fc6a9069bc470f4d657f69cbcf592ba04e51f1c4fc86f5cd",
+    "bytes": 120000,
+    "mtime_ns": 1789627608595329300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11404_hr.hea": {
+    "sha256": "d8b95a870fd43c8bd04ff739f9f35de6f8ae42ae5055514d47503a09f5aaa755",
+    "bytes": 602,
+    "mtime_ns": 1789627608601319900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11518_hr.dat": {
+    "sha256": "30c50e8a6f91952d401f30363dfd3a53e439c69d5664f839844434f6466b261d",
+    "bytes": 120000,
+    "mtime_ns": 1789627610064153600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11518_hr.hea": {
+    "sha256": "387fafb56e36cff6e80b3b216a06582f26f0fde2a669c53fd3c40e6c448d7c51",
+    "bytes": 611,
+    "mtime_ns": 1789627610070605800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11526_hr.dat": {
+    "sha256": "d803fc6d83e2c359d399c17c680d9c9c300dfd982bdbd97cd923141b10c8999e",
+    "bytes": 120000,
+    "mtime_ns": 1789627610165155400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11526_hr.hea": {
+    "sha256": "aa14c3668cb1f21adc57fa044574672a85d4116c28ecd2d9d2092ff79bda5690",
+    "bytes": 614,
+    "mtime_ns": 1789627610171104700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11598_hr.dat": {
+    "sha256": "73744636035d7bdbbe87433a07bcc889808699fe797a104711ba5c8af07bf2e8",
+    "bytes": 120000,
+    "mtime_ns": 1789627611088422400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11598_hr.hea": {
+    "sha256": "4a01d47c11a74962f5ac4142f91670c24e8846e10437fbe71f5fcb21f06ab5e0",
+    "bytes": 600,
+    "mtime_ns": 1789627611093755900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11707_hr.dat": {
+    "sha256": "72d4dacf95483d04eefdf4cd2ea9b0f465b62024d5355d6e2b00d3e69f5bc6c9",
+    "bytes": 120000,
+    "mtime_ns": 1789627612493741300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11707_hr.hea": {
+    "sha256": "2e13a095cc0c85b69fb4a7d914635b10f5ca162700ef88121d30cea0a3ac7e0f",
+    "bytes": 606,
+    "mtime_ns": 1789627612499344900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11906_hr.dat": {
+    "sha256": "ff0d052df2de7c790dbb5b8f3ed867a6b8f154ee28eea08f3731a2fccaf8104a",
+    "bytes": 120000,
+    "mtime_ns": 1789627615022404800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11906_hr.hea": {
+    "sha256": "cc2d82185d3a13548af6bb65c67e8db0bebd3572bab7e84d15e160a9d58444a7",
+    "bytes": 606,
+    "mtime_ns": 1789627615028292900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11920_hr.dat": {
+    "sha256": "89f119594e865d7657b42824028f89ac4d5d5788b739988403627e48d9c54d91",
+    "bytes": 120000,
+    "mtime_ns": 1789627615209013600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11920_hr.hea": {
+    "sha256": "706ae2638e690cf17707ce1ddcbcea95573b36a236310be581c9374b319e5fff",
+    "bytes": 610,
+    "mtime_ns": 1789627615215212900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11924_hr.dat": {
+    "sha256": "d12e988e06794b7b71d71a707d20933cf2fa1518a55617a13392bb6a4325f0f9",
+    "bytes": 120000,
+    "mtime_ns": 1789627615262618000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11924_hr.hea": {
+    "sha256": "44ce47ccecfcd77db4d9345c6bc3f930b19ce842cb57acda02cf4747a4da9488",
+    "bytes": 607,
+    "mtime_ns": 1789627615268333200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11961_hr.dat": {
+    "sha256": "f005923a4d8d7a2139c69dea3a557e22fb65ae8ae047ab18880be2255d8a1187",
+    "bytes": 120000,
+    "mtime_ns": 1789627615736719100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\11000\\11961_hr.hea": {
+    "sha256": "4adac59a9bfcfc453618c994b3001f72bf041575d4129b275321e9bb4ccc743f",
+    "bytes": 609,
+    "mtime_ns": 1789627615743451200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12064_hr.dat": {
+    "sha256": "3e4a0584ae8fca4267062a48d4fbdec55d0ac339f62a3b28ff499f64f94b1e73",
+    "bytes": 120000,
+    "mtime_ns": 1789627617081527800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12064_hr.hea": {
+    "sha256": "289bce45811f189b0c6feb5fe0274be6503bfa28f899b1a843173b96576564ba",
+    "bytes": 608,
+    "mtime_ns": 1789627617086642300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12087_hr.dat": {
+    "sha256": "2c019e174264f220aa67bc34595a0b7d9f5f33b91aaedb353f0bc78154140e83",
+    "bytes": 120000,
+    "mtime_ns": 1789627617384335300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12087_hr.hea": {
+    "sha256": "c7412b6f24d80f496bd8130e2144dda916a967bcc1766891fd3fa85d2e162372",
+    "bytes": 616,
+    "mtime_ns": 1789627617389707200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12118_hr.dat": {
+    "sha256": "9290a887bf857bf22b181d8253df4e8e11a4598170abfa4e4c4844a8f95794dd",
+    "bytes": 120000,
+    "mtime_ns": 1789627617782176300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12118_hr.hea": {
+    "sha256": "977f41a3f7dffbcaf1578b15e56f3d93517e35cf4af37c2f22d4b204bd17a792",
+    "bytes": 603,
+    "mtime_ns": 1789627617787594000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12255_hr.dat": {
+    "sha256": "9ac11f877fb710400d30ee8abb6cbc33fb05c1da94264183225f047bb1cb64ce",
+    "bytes": 120000,
+    "mtime_ns": 1789627619564701100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12255_hr.hea": {
+    "sha256": "fd571779538db375555fab8c94dab86bfde5569119d1bcd8b50bae0a673bd076",
+    "bytes": 607,
+    "mtime_ns": 1789627619570117900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12320_hr.dat": {
+    "sha256": "98628aafd3154a44d80b2bbf37efabea2c2a94b73a382df564e353de8668e087",
+    "bytes": 120000,
+    "mtime_ns": 1789627620410348500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12320_hr.hea": {
+    "sha256": "b510c4fd734f841be6b8ce46eb35d9723587cf088eb0beec0a7418c9ad874d1a",
+    "bytes": 613,
+    "mtime_ns": 1789627620416049200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12379_hr.dat": {
+    "sha256": "920113b37356f69c090ff0f4ca823a96900a23d5c14ecc715f721d7cf96fbce8",
+    "bytes": 120000,
+    "mtime_ns": 1789627621188226500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12379_hr.hea": {
+    "sha256": "082835fa958b5ffcef302f4b797e748621d1c7083b0839025a67909aa5d3bf89",
+    "bytes": 617,
+    "mtime_ns": 1789627621193674600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12434_hr.dat": {
+    "sha256": "826ec129cc3a9e160f9ae1e03af36108aafe4ea04f1881644f8312066354b5af",
+    "bytes": 120000,
+    "mtime_ns": 1789627621905067900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12434_hr.hea": {
+    "sha256": "205c8e2883a3f9dfff2e4c0d45db2e502e2394030418f47cd0c5195c44c6c15b",
+    "bytes": 606,
+    "mtime_ns": 1789627621911369000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12628_hr.dat": {
+    "sha256": "9b60c7a5b3cfc6c08a0ca5b26d0851eeafd17a3b21e6d0fb7743197f45851957",
+    "bytes": 120000,
+    "mtime_ns": 1789627624490733100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12628_hr.hea": {
+    "sha256": "02c567b16fd95b9d6fe05c25eade84f32d0440e42961fa2e28050673ef0be580",
+    "bytes": 617,
+    "mtime_ns": 1789627624497064000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12663_hr.dat": {
+    "sha256": "e76589e4b29be4bae07dc1f6f85974df09ec40dd67e8b385d428e435594473cf",
+    "bytes": 120000,
+    "mtime_ns": 1789627624945879300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12663_hr.hea": {
+    "sha256": "6b4edb6c6bc019beb6a04c2f84130b666c1d9b22e5d598c8a72df39daac3bb9f",
+    "bytes": 614,
+    "mtime_ns": 1789627624951409200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12706_hr.dat": {
+    "sha256": "ca9a93504862b73c150ba0d965fb9f9c3233ae3e28c3f514840eaffc547be500",
+    "bytes": 120000,
+    "mtime_ns": 1789627625526194000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12706_hr.hea": {
+    "sha256": "484fac54965771aaa96fc7974fb42766709adbe4441c64721062a6cfcba15a97",
+    "bytes": 609,
+    "mtime_ns": 1789627625532132100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12736_hr.dat": {
+    "sha256": "3ec0429a044429f3a24b37f4f98cd91ef2d17a84c0d0638440c7cd5dae5e100f",
+    "bytes": 120000,
+    "mtime_ns": 1789627625904690000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12736_hr.hea": {
+    "sha256": "cefae2ea7f0eac8c2543eec5c9dd71c4c80f5881f81214c43be4422ed1acc6f8",
+    "bytes": 610,
+    "mtime_ns": 1789627625909679100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12781_hr.dat": {
+    "sha256": "71b2627250bebc19782c7de0cf92b12270ef404a92ee4d9dbe30778f9b71ddbd",
+    "bytes": 120000,
+    "mtime_ns": 1789627626480085700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12781_hr.hea": {
+    "sha256": "0365755aced0453608527a51685499ebb6a84c1f5ebbffa7e8f0c2429704da22",
+    "bytes": 611,
+    "mtime_ns": 1789627626485393600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12840_hr.dat": {
+    "sha256": "28e720df79ebd6e00df81b8410098b5fc16f7c5469194075088b45fe824cfbb2",
+    "bytes": 120000,
+    "mtime_ns": 1789627627234896800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12840_hr.hea": {
+    "sha256": "0500344b2d61c9f263232cd53f0e06364d44570a820152e918601653ad37dddd",
+    "bytes": 613,
+    "mtime_ns": 1789627627241620400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12845_hr.dat": {
+    "sha256": "f047b4890ab09dd4e3770703916671d678ad0b76f11784c4755ba6cb7877b7e1",
+    "bytes": 120000,
+    "mtime_ns": 1789627627297748900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12845_hr.hea": {
+    "sha256": "03e4918336b2e159c1965a6e237b5920d56cf0cfda8840482776e740d67b851d",
+    "bytes": 600,
+    "mtime_ns": 1789627627303217800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12884_hr.dat": {
+    "sha256": "4628319d93ef4e6ff4fb3cbac06dd4ff12b177fd9b50ecc005d60f678d4fc02e",
+    "bytes": 120000,
+    "mtime_ns": 1789627627795191800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12884_hr.hea": {
+    "sha256": "af6c1412e24b7399b40485b51d3e2862d0cc396edf7fd77c2466c333746dab11",
+    "bytes": 612,
+    "mtime_ns": 1789627627800247800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12887_hr.dat": {
+    "sha256": "cfe03c36cb4839d61715c1a66bcd70e66db9b9299ae9ac9c911458f89ff967bf",
+    "bytes": 120000,
+    "mtime_ns": 1789627627830261300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12887_hr.hea": {
+    "sha256": "9213cef4f77f35b0fee5a133aba533df0919b81da310a344ab49b90b8f217595",
+    "bytes": 602,
+    "mtime_ns": 1789627627835852100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12904_hr.dat": {
+    "sha256": "323b0724d7064f5598c9c74eca4ff01fd1ed84c9d320775c34f6d4a4b9b649a6",
+    "bytes": 120000,
+    "mtime_ns": 1789627628045565900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12904_hr.hea": {
+    "sha256": "33680471d6613d7f6ca78b0833a81da5f0d9449690e2bd1147ff09602996d0d0",
+    "bytes": 616,
+    "mtime_ns": 1789627628051759800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12954_hr.dat": {
+    "sha256": "10ceadb22e1e690729f6ea19f95bae005805e8791616e4abaede3fdff90b2e28",
+    "bytes": 120000,
+    "mtime_ns": 1789627628694954000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12954_hr.hea": {
+    "sha256": "27ce64df01f0edf5f41b0398e49263a03637de8ad29358d3a9648b31d40b32e1",
+    "bytes": 605,
+    "mtime_ns": 1789627628700138200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12970_hr.dat": {
+    "sha256": "e56ad7c685b865d1eac8cb33319ccb194191ec6832d3491bb509ef88423459ab",
+    "bytes": 120000,
+    "mtime_ns": 1789627628899006200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\12000\\12970_hr.hea": {
+    "sha256": "3921c26353fcf4adcbf0240fae39ea3e7d6d59859244b77485e3010a63044a7b",
+    "bytes": 614,
+    "mtime_ns": 1789627628903995900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\13000\\13074_hr.dat": {
+    "sha256": "b4234c09f3a38b5be0b2348197c2a0c0af086ae1c91e740798e3fd05d42d3e43",
+    "bytes": 120000,
+    "mtime_ns": 1789627630249700500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\13000\\13074_hr.hea": {
+    "sha256": "06da4fab0abae2dbe8c5a45c71064295ff332c72862d4d0d1adf0d28f60ee138",
+    "bytes": 609,
+    "mtime_ns": 1789627630255319900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\13000\\13651_hr.dat": {
+    "sha256": "27016716e218547ed83f741c12e9b698a6bd451d12bc0e2f4845c4cfd36931dd",
+    "bytes": 120000,
+    "mtime_ns": 1789627638007000000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\13000\\13651_hr.hea": {
+    "sha256": "25c3f32f9309b34f82a9a334171b08c11a4f695bea03dd3caa19f3c166cce728",
+    "bytes": 610,
+    "mtime_ns": 1789627638013231600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\13000\\13661_hr.dat": {
+    "sha256": "c748f2343a96f913ab75c7918ae8825dc29ef27f5817ecd303b590ad2b903f8c",
+    "bytes": 120000,
+    "mtime_ns": 1789627638136148700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\13000\\13661_hr.hea": {
+    "sha256": "8adcde3d2a97f9aedbe5873565ddb161eaa55a21811741a21f382576ad09f65a",
+    "bytes": 616,
+    "mtime_ns": 1789627638141765400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\13000\\13837_hr.dat": {
+    "sha256": "bf869407d73697c85daf7a46c8640e7deb4ad0d28072df47678b167d64952223",
+    "bytes": 120000,
+    "mtime_ns": 1789627640376729800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\13000\\13837_hr.hea": {
+    "sha256": "3e91371538b6026fb033ebe0be39cb6e4890ac1144ad3e5408fb3c32018aaa6c",
+    "bytes": 610,
+    "mtime_ns": 1789627640382587900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\13000\\13919_hr.dat": {
+    "sha256": "d079e543e4d4eb99ac6e6af89c7903fb5b725372d1b204ec5d8a2ef2d8f0c27e",
+    "bytes": 120000,
+    "mtime_ns": 1789627641475654200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\13000\\13919_hr.hea": {
+    "sha256": "8c87dfe297df66bc3ca41cfc78595a52727f2cfe4a3380f91a5ecf93c31a7219",
+    "bytes": 610,
+    "mtime_ns": 1789627641482225800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14295_hr.dat": {
+    "sha256": "709dc74b137ceb187df0c90373b803360fda50c946524dff7575064f77a3323e",
+    "bytes": 120000,
+    "mtime_ns": 1789627646395873300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14295_hr.hea": {
+    "sha256": "0134f82b34d081217a8e10110ffbec40c64cec32716079c9e1e34fa3a70a6ed3",
+    "bytes": 613,
+    "mtime_ns": 1789627646401056100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14351_hr.dat": {
+    "sha256": "103b83b9a95323adae431db08a0b903a97a5266b71bf6f34169a26bfcdfdccd7",
+    "bytes": 120000,
+    "mtime_ns": 1789627647112714400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14351_hr.hea": {
+    "sha256": "042bca1edb4d651049a7d2852d927b5474402fd762e3d066bcb78b590002f4b0",
+    "bytes": 608,
+    "mtime_ns": 1789627647119378300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14398_hr.dat": {
+    "sha256": "f363e6da503fc8585c2d6d951b00277188beb10d0a93776dfa4770e5cfabb0cb",
+    "bytes": 120000,
+    "mtime_ns": 1789627647709482000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14398_hr.hea": {
+    "sha256": "54b12acc7b829a815a705c8615dfb578a2c0e8c7d801ad1d87db8f2b3acb4ee1",
+    "bytes": 610,
+    "mtime_ns": 1789627647716379000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14452_hr.dat": {
+    "sha256": "ce4048cf8f35d9470d643dd30380dbe8c7f8bdc13bc5bd87db6035debe72fcdc",
+    "bytes": 120000,
+    "mtime_ns": 1789627648398655600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14452_hr.hea": {
+    "sha256": "811122638775d96997d5c9c530e763596df95b62f0c2c51eeacdc299ec29a981",
+    "bytes": 613,
+    "mtime_ns": 1789627648404068000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14453_hr.dat": {
+    "sha256": "78992ab955b60febfd745b53d07f4c66de9a5681ca133d6c21ffc87fa6871167",
+    "bytes": 120000,
+    "mtime_ns": 1789627648410640300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14453_hr.hea": {
+    "sha256": "89147646ae0dc4087d350960256611db53f16583d23e0c0bd9807fba11307434",
+    "bytes": 612,
+    "mtime_ns": 1789627648416396400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14463_hr.dat": {
+    "sha256": "23ea332570b4ef88b06a081b713f050d29799bfc49ceea35ee8cbb1b7e3a04a1",
+    "bytes": 120000,
+    "mtime_ns": 1789627648538522100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14463_hr.hea": {
+    "sha256": "4c271a8131569b2bd1bd05ff4dce06f5e9afa25ed285291ba37952cb53bc7127",
+    "bytes": 611,
+    "mtime_ns": 1789627648544267700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14470_hr.dat": {
+    "sha256": "61f0010349967d7e9dce9ea70c1f3db7393e2b5ce5c8b104dcadbc20961cf8cf",
+    "bytes": 120000,
+    "mtime_ns": 1789627648628787800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14470_hr.hea": {
+    "sha256": "f47d9128930b86a53fa1fbaf0e8e679f51676c17a1e62b015e6e5ddb710642c2",
+    "bytes": 609,
+    "mtime_ns": 1789627648634225900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14521_hr.dat": {
+    "sha256": "200569718ebcb1ff84e4f0759c9e4f49e602a21a415f3fbc7a580920994d14b4",
+    "bytes": 120000,
+    "mtime_ns": 1789627649291233800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14521_hr.hea": {
+    "sha256": "011469cf27957300573f9b5066df679525acd5f8b103edf71ade944b9dbaffd5",
+    "bytes": 608,
+    "mtime_ns": 1789627649296873600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14664_hr.dat": {
+    "sha256": "16608f34afdf372f18098f5834f229c0533097138c430bd1670f39b3878a4c6f",
+    "bytes": 120000,
+    "mtime_ns": 1789627651125012700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14664_hr.hea": {
+    "sha256": "90eb40659d51f5842878ed63b733d0ec6273999bff6f22d888ff40b0d5db71d1",
+    "bytes": 607,
+    "mtime_ns": 1789627651130625100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14712_hr.dat": {
+    "sha256": "d41bb47fc5852a465f071db1998f996c02320007284c5ec6606f3725610ae0df",
+    "bytes": 120000,
+    "mtime_ns": 1789627651739223100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14712_hr.hea": {
+    "sha256": "dc7ccf3ffd08a558d8f31a9f4b5d248d76b6c383cb01e0ad25748e799f8e1a55",
+    "bytes": 608,
+    "mtime_ns": 1789627651745646600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14717_hr.dat": {
+    "sha256": "51e9577967f5e3de42cdfaed0c6359cd454b31c886e47bed018270c6fe67fabd",
+    "bytes": 120000,
+    "mtime_ns": 1789627651802724300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14717_hr.hea": {
+    "sha256": "b005a3c1c288878e0b43832f3325c31c07be36c301adba565187790a18c9714e",
+    "bytes": 610,
+    "mtime_ns": 1789627651809384100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14801_hr.dat": {
+    "sha256": "52347a7121deceae2f6afd2de7801d5187dd1a8f99b710a734c29189486f760f",
+    "bytes": 120000,
+    "mtime_ns": 1789627652879710700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14801_hr.hea": {
+    "sha256": "99341d0c0ddc7de9060105f7af8f0be571dfa3dff8d595925f22932554016667",
+    "bytes": 620,
+    "mtime_ns": 1789627652885063800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14905_hr.dat": {
+    "sha256": "0462678a689bf3214121c147b6ddb8b688053dc7571d277c1ebd1dcb14a7ca08",
+    "bytes": 120000,
+    "mtime_ns": 1789627654204724800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\14000\\14905_hr.hea": {
+    "sha256": "76e8ad763844ef9fe9594b95c5040b593d4fc32847b6eccf785d04acd284f60e",
+    "bytes": 613,
+    "mtime_ns": 1789627654210354000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15048_hr.dat": {
+    "sha256": "4cb1d0ec74601ce6573b632431e22ea68fa0235d37aabb1154f210dbdc7d9da9",
+    "bytes": 120000,
+    "mtime_ns": 1789627656081328200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15048_hr.hea": {
+    "sha256": "d7f40c3df185130a907439b456c035b92bf42e287edc84ca4f4f1ed594b7ff73",
+    "bytes": 608,
+    "mtime_ns": 1789627656086591400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15174_hr.dat": {
+    "sha256": "6bc2974af53a00224147a44443122312c279ff218fa4270a7fbdeec198fa0875",
+    "bytes": 120000,
+    "mtime_ns": 1789627657680514500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15174_hr.hea": {
+    "sha256": "7fff0ab90dfcd78ba359d099d95466f9c60c7c5d67ad8a59144cf74a7b8ed641",
+    "bytes": 607,
+    "mtime_ns": 1789627657685497700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15225_hr.dat": {
+    "sha256": "ab3253b4e60ca31f90082bebedd5a30463345414eb6aeb01202d7c8c23f34616",
+    "bytes": 120000,
+    "mtime_ns": 1789627658330722400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15225_hr.hea": {
+    "sha256": "4a79266003b3630e1d1cc4f454181058ff0bf8b44e06cb6bafbd51fbd288ccd9",
+    "bytes": 606,
+    "mtime_ns": 1789627658335592500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15282_hr.dat": {
+    "sha256": "f223ac5a7a4eff4bcc0c24bcaff792b7d7621753f00dd8ec9c5ce1e13bc7e424",
+    "bytes": 120000,
+    "mtime_ns": 1789627659049817200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15282_hr.hea": {
+    "sha256": "f95a8c1a58c993dbd0fbc257d7c6eef561ed2ceeddfeb28a8f4393a5a693f6db",
+    "bytes": 602,
+    "mtime_ns": 1789627659055928700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15288_hr.dat": {
+    "sha256": "85585d5d67992c190efd14ba34a83e5cabea10f1a3cceee5c234fa90de786f9b",
+    "bytes": 120000,
+    "mtime_ns": 1789627659122437000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15288_hr.hea": {
+    "sha256": "9806233e92ad274ce90e5617c1e8b6ca9f386ef5dd0dd33346de33f6751937fc",
+    "bytes": 600,
+    "mtime_ns": 1789627659126731500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15307_hr.dat": {
+    "sha256": "76a21ec758922672f6b608f1e6ace6eb3dcc505c9723779c4531e97a104d82dd",
+    "bytes": 120000,
+    "mtime_ns": 1789627659354654900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15307_hr.hea": {
+    "sha256": "9bb7346905f43d9059bf8d864e993c720427e12104250180e88d40b48073cd67",
+    "bytes": 607,
+    "mtime_ns": 1789627659359909300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15412_hr.dat": {
+    "sha256": "2af2e0aaa0ff1d8cf467df0cfcd7ae2f495cc83d043f26f61f6548485e0ea632",
+    "bytes": 120000,
+    "mtime_ns": 1789627660652917100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15412_hr.hea": {
+    "sha256": "31c89ef15a96cc9d6af0fe1cb3d8e275f5d6d42ade4c5ccd82ac76a27f63a6f1",
+    "bytes": 604,
+    "mtime_ns": 1789627660658592500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15565_hr.dat": {
+    "sha256": "3b9a96b1c74ef795c9172be2fbb4a2caef1774b7820d9613e21407d7e05500c4",
+    "bytes": 120000,
+    "mtime_ns": 1789627662560961500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15565_hr.hea": {
+    "sha256": "5b4e72ec5704b715a3a34a6fae81c59a83c868fee38f47a13934ae1ed708a405",
+    "bytes": 611,
+    "mtime_ns": 1789627662566444700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15625_hr.dat": {
+    "sha256": "39b7fd3df2f4fcdc27308ab3d575408600f1233ca7bf967fea2ef39339661430",
+    "bytes": 120000,
+    "mtime_ns": 1789627663309226800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15625_hr.hea": {
+    "sha256": "613640539002ac81da8794fcd53aa4f1ea8bcfe61189c1bf084804bae324872f",
+    "bytes": 610,
+    "mtime_ns": 1789627663314507700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15655_hr.dat": {
+    "sha256": "c757cb0a424c9bab2287add1bfb2411430d1b530506a357547deb34320439aaa",
+    "bytes": 120000,
+    "mtime_ns": 1789627663676144100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15655_hr.hea": {
+    "sha256": "840e7f68b904f9900fc906cbd3506c158f047f37e30709362174581536c7c0cc",
+    "bytes": 602,
+    "mtime_ns": 1789627663681412700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15932_hr.dat": {
+    "sha256": "42e41c02ba068fad3887ad8cd7b93f4770930c1551243f3acdcda6e6a0c895d8",
+    "bytes": 120000,
+    "mtime_ns": 1789627667113924300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15932_hr.hea": {
+    "sha256": "9686775f43b3f87b45805727c22015082b5758bc0824cd046d5a7355f73bbd1c",
+    "bytes": 609,
+    "mtime_ns": 1789627667118152900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15940_hr.dat": {
+    "sha256": "a112df9ef3f9907fbf0e1f15bdc9da670660ea95d981b9cee982b69c452e0743",
+    "bytes": 120000,
+    "mtime_ns": 1789627667208652400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15940_hr.hea": {
+    "sha256": "48f1fe59115a20daf1e6a4d95bb7c29e4a17dcf1a0996330a032ed8d2e4acf88",
+    "bytes": 613,
+    "mtime_ns": 1789627667213921100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15974_hr.dat": {
+    "sha256": "69c3527bcb88cf7bedbaf6b57e07ee8702cd3fda14314ac0eb3bc70c94219e1c",
+    "bytes": 120000,
+    "mtime_ns": 1789627667629091000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15974_hr.hea": {
+    "sha256": "12eccba9efd36730e99358cc235ebbb0e3b9199828c7e6f473951f3558e37757",
+    "bytes": 608,
+    "mtime_ns": 1789627667634336300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15982_hr.dat": {
+    "sha256": "558d290daa87d3b3e9584a87d23b2df9bd253ae760da6389397c3559dd16be0c",
+    "bytes": 120000,
+    "mtime_ns": 1789627667727422700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\15000\\15982_hr.hea": {
+    "sha256": "ed415a10479324b01f316f9c0690ea0f5355fc3d90876c7dca173bf63c4ade5f",
+    "bytes": 614,
+    "mtime_ns": 1789627667732693400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16036_hr.dat": {
+    "sha256": "395eb33f3995658dc22f2f5dbc838ab7148234be2e4a47224285c9834537ed77",
+    "bytes": 120000,
+    "mtime_ns": 1789627668404245300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16036_hr.hea": {
+    "sha256": "884d4f28fa190fdc68f442e1e4e8ff9cee6f2c6445b387f7691a2b85dea81873",
+    "bytes": 608,
+    "mtime_ns": 1789627668409554700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16063_hr.dat": {
+    "sha256": "a87220698121d1f2c05f350ed5ec926b3f53cad3a62ecab33ec937d6af7b8f50",
+    "bytes": 120000,
+    "mtime_ns": 1789627668737609300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16063_hr.hea": {
+    "sha256": "6fb74dec9fabd3f773399abee730b6008e5a96dff57af10bb21e87d7ad580073",
+    "bytes": 608,
+    "mtime_ns": 1789627668742855200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16102_hr.dat": {
+    "sha256": "08a6f1c8ad6f21fd0ea11d10d136cacc53c529bbafd321dd668326fbdb664033",
+    "bytes": 120000,
+    "mtime_ns": 1789627669234061800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16102_hr.hea": {
+    "sha256": "414095b343250d8469e5dce88d674c49dbb62e317b19bac8497b28459e925922",
+    "bytes": 604,
+    "mtime_ns": 1789627669239658700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16181_hr.dat": {
+    "sha256": "ffe4be2446742424f30b3308360bbe36c8eae6d7e4f74de73bc4a5f981f5504b",
+    "bytes": 120000,
+    "mtime_ns": 1789627670211369600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16181_hr.hea": {
+    "sha256": "9ba22c43991beafad5847ce86c87a61fb8ea2ea0a950299fe22c4cc9ff94b4a8",
+    "bytes": 606,
+    "mtime_ns": 1789627670216593200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16370_hr.dat": {
+    "sha256": "ed6949d501f6238f5963f5bc605a0b8d0edbda9bba903c3f04dfa410926ac160",
+    "bytes": 120000,
+    "mtime_ns": 1789627672541068400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16370_hr.hea": {
+    "sha256": "48accacc0e5c5aded9c39f2d43bc9fe829daf7ae28fecec45bb3da88ff68871a",
+    "bytes": 609,
+    "mtime_ns": 1789627672546357100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16383_hr.dat": {
+    "sha256": "448d802e2feeaee6ba58a8fa1ade1d8398c846795d2d9503876a087e7d001949",
+    "bytes": 120000,
+    "mtime_ns": 1789627672704400700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16383_hr.hea": {
+    "sha256": "1317d40cf77954d27d0a3149a5660a57d0da2f0d80ad658837f95d5f12100f1d",
+    "bytes": 611,
+    "mtime_ns": 1789627672710914500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16689_hr.dat": {
+    "sha256": "c61fab2bc153a9133abe74bc5458018a99de7bd06a1990c5eafd9cc46f0a26d4",
+    "bytes": 120000,
+    "mtime_ns": 1789627676503375400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16689_hr.hea": {
+    "sha256": "ed98ba371741a338326c74f90801ef8958571183e42e59d79811c69bafea661a",
+    "bytes": 611,
+    "mtime_ns": 1789627676508968400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16771_hr.dat": {
+    "sha256": "991e9dcdc6e8a9ea8c8a2ab34b32c6f2bd2b0a16202f08697df4b2b9b6c09154",
+    "bytes": 120000,
+    "mtime_ns": 1789627677527879600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16771_hr.hea": {
+    "sha256": "82829f735c0b411be6b9361b65f3b8d8befba163ef559a81956faf1fb9be4714",
+    "bytes": 618,
+    "mtime_ns": 1789627677533616100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16837_hr.dat": {
+    "sha256": "5afcfdb8a0553a7ea64fa09bb3800abc84cd3a8396f1da469266e6ba2a41ce7d",
+    "bytes": 120000,
+    "mtime_ns": 1789627678343761300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16837_hr.hea": {
+    "sha256": "04110b7f610111c85adb5a465e7b1ab3940f06c85cd41d2ad6c0baad5582fb38",
+    "bytes": 607,
+    "mtime_ns": 1789627678349127200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16977_hr.dat": {
+    "sha256": "7a6959d5d7847eb02623b80a9f5ec6a8adcbc327c47b2c2a977a67a6eb23f470",
+    "bytes": 120000,
+    "mtime_ns": 1789627680062743100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\16000\\16977_hr.hea": {
+    "sha256": "1cc15414556a2e0eb65cc03d659dc285a019a988ba1761615dcceb9209066084",
+    "bytes": 613,
+    "mtime_ns": 1789627680067899500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17018_hr.dat": {
+    "sha256": "e71c550e8fe754da05e9bf05b975b9b6dbe7c21562feb1926d318c26e3397eb6",
+    "bytes": 120000,
+    "mtime_ns": 1789627680592276800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17018_hr.hea": {
+    "sha256": "407fc543614f4e972c48a4fcda3719563013575f450b8a2c8993665809cbf3d3",
+    "bytes": 612,
+    "mtime_ns": 1789627680597816200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17046_hr.dat": {
+    "sha256": "d9744ea2ea1908389e242b917e47b591b48c90873b036cf3fb42935c203dc152",
+    "bytes": 120000,
+    "mtime_ns": 1789627680937649500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17046_hr.hea": {
+    "sha256": "66991e593eebb81afd046a07cbcfbef0e5df85e81fcdc83007193497d0fa058f",
+    "bytes": 604,
+    "mtime_ns": 1789627680943204900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17436_hr.dat": {
+    "sha256": "38590a6460dbed6fbac36126033319149d0309a8ddc6de1f754536f6ff0851bd",
+    "bytes": 120000,
+    "mtime_ns": 1789627685730389100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17436_hr.hea": {
+    "sha256": "6d370d61a655066a796319cb67c6c1e0e77bfe9554bc0f3cdd8d497c7f4d85f5",
+    "bytes": 602,
+    "mtime_ns": 1789627685735646400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17544_hr.dat": {
+    "sha256": "e524da33b37c878df54cc89d9b249610f9706473f3b95ed1fee61fa61911a1ea",
+    "bytes": 120000,
+    "mtime_ns": 1789627687063157200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17544_hr.hea": {
+    "sha256": "7d31a18a1d1c080c09f05664f4c2db2987a006a557c992eba595d13dbd5b8fb0",
+    "bytes": 610,
+    "mtime_ns": 1789627687068656900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17554_hr.dat": {
+    "sha256": "5eafb220273a52077e75042f2bdb29792cec7825dde3b154ed3a0a9e160b24b5",
+    "bytes": 120000,
+    "mtime_ns": 1789627687186516400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17554_hr.hea": {
+    "sha256": "c55e44605c2353545b8c3b410f43e5dd46271b520e54c92d1396ae1e3e78c319",
+    "bytes": 614,
+    "mtime_ns": 1789627687192031200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17555_hr.dat": {
+    "sha256": "ce6aee48fbc3ed2da3e42f320f3858ad242b135d3d11a5372499a4cb566a3c01",
+    "bytes": 120000,
+    "mtime_ns": 1789627687198166000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17555_hr.hea": {
+    "sha256": "eeee3b9c0b966f0e5c186003cfa89f77fdac929201a15241d4e43204ed7cd6bc",
+    "bytes": 611,
+    "mtime_ns": 1789627687203932200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17598_hr.dat": {
+    "sha256": "ee86c6ed2ba13c4c4ebcf365c27ef8fb3feeb9128e0b246056ed4a274f27e312",
+    "bytes": 120000,
+    "mtime_ns": 1789627687754355800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17598_hr.hea": {
+    "sha256": "8b9b230ab7a36fdd12f4ca62986963ac8bb15dd1b0c3ac2d6dfcb4e60f46f410",
+    "bytes": 607,
+    "mtime_ns": 1789627687759754600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17605_hr.dat": {
+    "sha256": "94974758e3a753ab04d811313d07c972a67e4d89486a1c875593839972ef4546",
+    "bytes": 120000,
+    "mtime_ns": 1789627687845243100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17605_hr.hea": {
+    "sha256": "1b340d0fd53045525df69922b9d9e4cf43253890f53fa76c9b73f8e7c24c9c88",
+    "bytes": 606,
+    "mtime_ns": 1789627687850734800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17652_hr.dat": {
+    "sha256": "809e5478c7cca4cb24fcf0035a7eb5c44488036da6f4492ec028c76bfbf2d855",
+    "bytes": 120000,
+    "mtime_ns": 1789627688468390200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17652_hr.hea": {
+    "sha256": "15f1dac8795716ce287709ef8d0c026bcddee2c44a1934f7fb12a9e915b4d02e",
+    "bytes": 609,
+    "mtime_ns": 1789627688474413800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17745_hr.dat": {
+    "sha256": "f17a1071bc797d5e5e9d0c6019f736ee6e51ef5031720bfb711b8d7e8cb7e5bb",
+    "bytes": 120000,
+    "mtime_ns": 1789627689695924700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17745_hr.hea": {
+    "sha256": "837aa7a70ac0a9c5a70036f480c95dc89555558b94a31ffc57962a8ee4797c42",
+    "bytes": 608,
+    "mtime_ns": 1789627689701397000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17773_hr.dat": {
+    "sha256": "2f683df8639be03d9f7a70a6a7de708ad87bd6aed287575c5a34af814709908c",
+    "bytes": 120000,
+    "mtime_ns": 1789627690054464600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17773_hr.hea": {
+    "sha256": "cd67339fd93ca72506663fe5970d95596ad69b56ccb7ef58da60078d78859d40",
+    "bytes": 608,
+    "mtime_ns": 1789627690061127400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17800_hr.dat": {
+    "sha256": "458d11717b2473edc56fab84c0027580c3ab34a948ecad2ec20ab1bd01c9a7a1",
+    "bytes": 120000,
+    "mtime_ns": 1789627690420245500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17800_hr.hea": {
+    "sha256": "709c1d4b19dc63d145ee9b954556d16c802bbaa54516e764107aba349fdef31a",
+    "bytes": 616,
+    "mtime_ns": 1789627690425414000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17859_hr.dat": {
+    "sha256": "0cdc99baae5b0ebea106bb2c52afa7d1a949b4aa4e61234cdd1841750306ffec",
+    "bytes": 120000,
+    "mtime_ns": 1789627691178626000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17859_hr.hea": {
+    "sha256": "f8d0186237aeba0cfc83f89903de5c93e0df4be99c222b9f69757582bcf9a36c",
+    "bytes": 610,
+    "mtime_ns": 1789627691183878300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17896_hr.dat": {
+    "sha256": "34183542b61884ca9c2073745ebc6208e7332874870eeb069bbc66b579a5288f",
+    "bytes": 120000,
+    "mtime_ns": 1789627691652179800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17896_hr.hea": {
+    "sha256": "1d2b84bf01e4e5fe5e7efe05df09d8bee49a3083822706d8526ae1dc9da35c5a",
+    "bytes": 617,
+    "mtime_ns": 1789627691658129200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17907_hr.dat": {
+    "sha256": "8c397cb615729d8f0d2cf9587feb21c2869bac2b00c84906a0b8be6b097f31ed",
+    "bytes": 120000,
+    "mtime_ns": 1789627691793605900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\17000\\17907_hr.hea": {
+    "sha256": "e505bb11e20267f0ccc9c812c09a2058293b9f9ac12608a70adaa719edf2cdd4",
+    "bytes": 604,
+    "mtime_ns": 1789627691799200500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18014_hr.dat": {
+    "sha256": "da00b00f388a355472f372335db295a9e342a3214f58ef5ef8d1e84ba4ab5c37",
+    "bytes": 120000,
+    "mtime_ns": 1789627693183218100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18014_hr.hea": {
+    "sha256": "e5a1e895a3ddbe3a08988c976de161b4c90c33ba79a5768e694e050728720979",
+    "bytes": 614,
+    "mtime_ns": 1789627693188631300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18030_hr.dat": {
+    "sha256": "6d16dc8d630b01b130a97907a3ed176e85f982acdb2d93c7eea45e77a6120e66",
+    "bytes": 120000,
+    "mtime_ns": 1789627693385696200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18030_hr.hea": {
+    "sha256": "ff19b20a8c1a2de8d2b33e6523b2fc56ad5d2a69ae3b0c2a2ced8bbcfb969758",
+    "bytes": 618,
+    "mtime_ns": 1789627693393225100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18031_hr.dat": {
+    "sha256": "fbcb89acf320c48d63a7dc613cb81ab1d2f1c6b82055f83d55dc54bad5881e8c",
+    "bytes": 120000,
+    "mtime_ns": 1789627693399717400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18031_hr.hea": {
+    "sha256": "5817b82916bc6e5d2cef24d1a0aed75db7a1e073974a2a2754c242930429b2e7",
+    "bytes": 614,
+    "mtime_ns": 1789627693406229200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18066_hr.dat": {
+    "sha256": "4166cd3d0d01905cbca0ed01b37a92bd43c51bb5e6098a66bc4cbd29d0221036",
+    "bytes": 120000,
+    "mtime_ns": 1789627693854180300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18066_hr.hea": {
+    "sha256": "78a6d79d3df6b90bad3e9a05e139f275f7376220ea2bb7524e577c6b623e431b",
+    "bytes": 605,
+    "mtime_ns": 1789627693860529100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18147_hr.dat": {
+    "sha256": "ac2fab7de61775b9c870f9f193fc4fb25404f7df29134c9b8ce8b1502073ac7c",
+    "bytes": 120000,
+    "mtime_ns": 1789627694901240100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18147_hr.hea": {
+    "sha256": "066ab5c704bc28127e26d1c63905a3c26b511b57ec453e30aceda7fea98ee3da",
+    "bytes": 609,
+    "mtime_ns": 1789627694906219300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18257_hr.dat": {
+    "sha256": "9adff16b530c8d68dce4302b1321c92299ad2fce277f7a24e6427eeb80803764",
+    "bytes": 120000,
+    "mtime_ns": 1789627696311390900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18257_hr.hea": {
+    "sha256": "790e95b527e4cf4f4f37841771ca209e6e69e3964472d041f3a445a0b1923dec",
+    "bytes": 605,
+    "mtime_ns": 1789627696316751300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18353_hr.dat": {
+    "sha256": "07a531140e2da119a9af959ffee8b25bbb20533c015e0635c6ee817ff9088fa2",
+    "bytes": 120000,
+    "mtime_ns": 1789627697563794900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18353_hr.hea": {
+    "sha256": "32077d4eca2d68c9f347e4eb9d4af835137aa7c8423d029083d66aaac4b2fa33",
+    "bytes": 606,
+    "mtime_ns": 1789627697569526300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18429_hr.dat": {
+    "sha256": "076a73cd3e740be5f0363c31584f8b483fc67f80b5855d883b67942fe94df8e2",
+    "bytes": 120000,
+    "mtime_ns": 1789627698544661300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18429_hr.hea": {
+    "sha256": "3ece963880177b61eba82496aaf773dceb6fbfd3766efe1f8a1731a81181316a",
+    "bytes": 602,
+    "mtime_ns": 1789627698550241300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18517_hr.dat": {
+    "sha256": "6714d42b7b93ce01dafb4357cb494f6aff7e9856ed1b7a2153a80874414196b5",
+    "bytes": 120000,
+    "mtime_ns": 1789627699695060000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18517_hr.hea": {
+    "sha256": "7e6275f581adf9616c586d21f0f4afa88c08312f4a2931478ba2ddb7efc42744",
+    "bytes": 609,
+    "mtime_ns": 1789627699701454300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18572_hr.dat": {
+    "sha256": "b80a91078c79a62d6b855c67c9bdf6b400f54ba9dd3394385c5df314eed1880d",
+    "bytes": 120000,
+    "mtime_ns": 1789627700394216100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18572_hr.hea": {
+    "sha256": "5888f081a2b4dc489abcb4879104c61f2d77ecaa4e5571ba10158aa44964e265",
+    "bytes": 608,
+    "mtime_ns": 1789627700399366200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18679_hr.dat": {
+    "sha256": "30143c5be876dc6721e695c9df5378d4491f8b346abfc05d2c83c09882af1c5b",
+    "bytes": 120000,
+    "mtime_ns": 1789627701782179800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18679_hr.hea": {
+    "sha256": "6e4391304868749edbcf349fc53306a17c97fab907709b549e5a5abd2aa8c2c1",
+    "bytes": 616,
+    "mtime_ns": 1789627701787402000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18726_hr.dat": {
+    "sha256": "d2a31981d4ee6ae6bb4c829ce16e5f62289fb24cc8c80db1ede15069b2729e9a",
+    "bytes": 120000,
+    "mtime_ns": 1789627702386646900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18726_hr.hea": {
+    "sha256": "5d51c167b1b28d45922a1386c00aa9e7459d2828190a537d20260d21d7f16677",
+    "bytes": 601,
+    "mtime_ns": 1789627702391735300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18768_hr.dat": {
+    "sha256": "e9318397ce22fb31e459ce051ca91f7f16fb71601fec2aee528d5a32a9c771d1",
+    "bytes": 120000,
+    "mtime_ns": 1789627702929015100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18768_hr.hea": {
+    "sha256": "d4372ea104f8d4715b06eeb5778b82cddf30b67e94dc9297d0d5e118094012c9",
+    "bytes": 607,
+    "mtime_ns": 1789627702935368200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18835_hr.dat": {
+    "sha256": "d4b13c0e38de9825bc27b1c04ec2885cc2c13ae3de0c55b65ca6e87c76d4d553",
+    "bytes": 120000,
+    "mtime_ns": 1789627703811362100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\18000\\18835_hr.hea": {
+    "sha256": "88abe03a8f69b37a5108c50d41a626408369a3e60eb7a8983f4b707e7d5562ca",
+    "bytes": 611,
+    "mtime_ns": 1789627703817236300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19020_hr.dat": {
+    "sha256": "bcd3c343f0902443d67f6fe47c0103baa76ad7b3fad3a180ba088884df45bb10",
+    "bytes": 120000,
+    "mtime_ns": 1789627706227703200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19020_hr.hea": {
+    "sha256": "bcdf61960ee343d53b2a459f9d1f9cec2651710a3592c817369dc3e3252b75a5",
+    "bytes": 595,
+    "mtime_ns": 1789627706232577100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19027_hr.dat": {
+    "sha256": "4fb756bcd53ed1526a0ebedb81e898a93f3e749b9f869a3be864a6e2074af52e",
+    "bytes": 120000,
+    "mtime_ns": 1789627706316503700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19027_hr.hea": {
+    "sha256": "e5ee13be6873ccdd4e08d3f8139b96ba73f686ae49f843d2aef73ee3a16e5dec",
+    "bytes": 614,
+    "mtime_ns": 1789627706322405000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19035_hr.dat": {
+    "sha256": "1a9c380d7c1677be29a90866116a5f7bb88650087838f40b901d75caaba2dd6f",
+    "bytes": 120000,
+    "mtime_ns": 1789627706418655900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19035_hr.hea": {
+    "sha256": "f3d8fb9299425efb2595977087e7deb1c7c9901fafa68adf17ad78829ffe5e4a",
+    "bytes": 603,
+    "mtime_ns": 1789627706424885300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19087_hr.dat": {
+    "sha256": "04c2360503391fe79777057e3785e3ffc07cbaa916101ff7cff644f3cc0bca5d",
+    "bytes": 120000,
+    "mtime_ns": 1789627707171379700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19087_hr.hea": {
+    "sha256": "325a2ab6fe457306afb8c0280e22b15b6fa9808059f64838fd90607c6ff2e71b",
+    "bytes": 611,
+    "mtime_ns": 1789627707176661800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19122_hr.dat": {
+    "sha256": "437e9f0469f166b4fb9d3b441c47b00e822cf1f08d6d9457d7d0ec5fc00f29de",
+    "bytes": 120000,
+    "mtime_ns": 1789627707661472300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19122_hr.hea": {
+    "sha256": "ffbce2bd5c0b6d6b01cf46d1706d2c65b7e56a7e06f3f13a9e36a9cf07e87978",
+    "bytes": 602,
+    "mtime_ns": 1789627707667406700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19248_hr.dat": {
+    "sha256": "1bc0f19d4de6fd4f55c15aaf023449686a02c8004b3eab2795cd7cfb5f1c1e47",
+    "bytes": 120000,
+    "mtime_ns": 1789627709198306000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19248_hr.hea": {
+    "sha256": "ea790d8734b1336261acab58655f06606b3b8d52d1fa3cb2f3f6e7d6f01f0f56",
+    "bytes": 607,
+    "mtime_ns": 1789627709203525200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19307_hr.dat": {
+    "sha256": "7afdf2afbeb6f4f53d75f664755d44b83be281011c98ad4070a4c5b64099ef08",
+    "bytes": 120000,
+    "mtime_ns": 1789627709923395800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19307_hr.hea": {
+    "sha256": "984c6d8b727df263b70903080a42355f9ac9cbc81ef1c5786abba5747b3ffcc7",
+    "bytes": 607,
+    "mtime_ns": 1789627709928830800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19308_hr.dat": {
+    "sha256": "cb25b582664544e6a9ce648b5cce6c799de6205e288a4a83107ea425bdb15d2f",
+    "bytes": 120000,
+    "mtime_ns": 1789627709935903900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19308_hr.hea": {
+    "sha256": "5994a0e36f4685fd68dc4ead994084904110d31b8b5baa55c0a09a7fc4de09cf",
+    "bytes": 613,
+    "mtime_ns": 1789627709943051100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19331_hr.dat": {
+    "sha256": "771fc62215580ca7693d05816b08a8d79cacc07ed0f117e448eaf6b112c859b1",
+    "bytes": 120000,
+    "mtime_ns": 1789627710230278700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19331_hr.hea": {
+    "sha256": "b3b9be567c523d7fa8b7d651f887e951926636e35fed2340af03cf79585a4e48",
+    "bytes": 611,
+    "mtime_ns": 1789627710234428800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19373_hr.dat": {
+    "sha256": "c23644c1294e3414e80e460d751b389bd1cbdb50b31e1787717451b60f88d6d7",
+    "bytes": 120000,
+    "mtime_ns": 1789627710869385000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19373_hr.hea": {
+    "sha256": "8947608f64f4af5d9894ad42a669f5857fd338116d871bd9ab05664334362369",
+    "bytes": 617,
+    "mtime_ns": 1789627710874679800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19489_hr.dat": {
+    "sha256": "efbaac0868057a0c4c4ce11553633aeb033674cdf57572fe4daedd41affe3004",
+    "bytes": 120000,
+    "mtime_ns": 1789627712347540500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19489_hr.hea": {
+    "sha256": "49d112cf7b4391269755d86a3b88f5dcafd93b90a5c21aeb96df779af298d7f1",
+    "bytes": 612,
+    "mtime_ns": 1789627712353144600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19493_hr.dat": {
+    "sha256": "1fbd0a0dfb53e65f9ccc855b91c70245ad570ebf4fc29cc0190a76a1e15ce3d2",
+    "bytes": 120000,
+    "mtime_ns": 1789627712394892900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19493_hr.hea": {
+    "sha256": "78bce6afdc7a6a832f19fbee8d3a14764a8f7fe7731db93d26140858fc675f63",
+    "bytes": 608,
+    "mtime_ns": 1789627712400872500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19505_hr.dat": {
+    "sha256": "5569d9499b6ee89abd1296c11b6bd34ded9bfb45f2f9e6c18dfc5db31e1e4c6a",
+    "bytes": 120000,
+    "mtime_ns": 1789627712538851700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19505_hr.hea": {
+    "sha256": "d9b4534ca42d2c96e971910ee0298104511a5d3867f1bc46b2700d09813578aa",
+    "bytes": 614,
+    "mtime_ns": 1789627712545103200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19574_hr.dat": {
+    "sha256": "239d47934d8dc1ce1c9c9cf7ffb4fc2ab733b2d006b2ed40796048c39ba44562",
+    "bytes": 120000,
+    "mtime_ns": 1789627713518376000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19574_hr.hea": {
+    "sha256": "864ae0ebdcc336b25f057f227b60d4fc2783a9a5c88d2fd405302aba17db5c73",
+    "bytes": 609,
+    "mtime_ns": 1789627713526953200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19635_hr.dat": {
+    "sha256": "313e3e3f561cfc139df7a923a17f6816d3083b3241e2c7e4e648284ec6e181ea",
+    "bytes": 120000,
+    "mtime_ns": 1789627714397953600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19635_hr.hea": {
+    "sha256": "4eb3eb0b294c9427c71b95d11f034d329063db84ec3b59e0331a090c71daea68",
+    "bytes": 608,
+    "mtime_ns": 1789627714403315700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19708_hr.dat": {
+    "sha256": "f8411ac0a2b0b4826a1cfa59af78cc0c272129323b4c6482e8161c2dd76e06b1",
+    "bytes": 120000,
+    "mtime_ns": 1789627715394542800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19708_hr.hea": {
+    "sha256": "376993ba8afdad5fa89a658995946f2e11eb5f51e53ccb662204d1298b3f8054",
+    "bytes": 610,
+    "mtime_ns": 1789627715399703500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19753_hr.dat": {
+    "sha256": "a792ce694baff497f58c46a1424b7a68e8a9a6c42146044241e2086f151dda07",
+    "bytes": 120000,
+    "mtime_ns": 1789627716029698900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19753_hr.hea": {
+    "sha256": "6f907f020f8239cff1f8674229151963ebf8839b33c8c30b628a08a7c43045b5",
+    "bytes": 609,
+    "mtime_ns": 1789627716034892400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19819_hr.dat": {
+    "sha256": "d001680beee17c54d58b23650c811fc0557c05b9afc774ad7bbe013b8bff8129",
+    "bytes": 120000,
+    "mtime_ns": 1789627716882700300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19819_hr.hea": {
+    "sha256": "0b206ca4c1d7baa7efa115a11d98cad2ae91d85419281eaca7175c64f81881b2",
+    "bytes": 604,
+    "mtime_ns": 1789627716888998900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19830_hr.dat": {
+    "sha256": "15ae4780043a93fb67efac8e5b8d1b63ced2b29df0185eae77401a05995fce68",
+    "bytes": 120000,
+    "mtime_ns": 1789627717019307800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19830_hr.hea": {
+    "sha256": "e6bdd995b93ab08462616c650031276081b298e2837e05ce966235c2ec4148eb",
+    "bytes": 606,
+    "mtime_ns": 1789627717024398000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19835_hr.dat": {
+    "sha256": "5e7852c48cef4ad5c80a0cfc49c0184468da3f8c9b8a11caefd82ede8eef6f95",
+    "bytes": 120000,
+    "mtime_ns": 1789627717079647300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19835_hr.hea": {
+    "sha256": "f09ecbbbb7237a04f00957432a70bbb4007fd271c3f5aff43dc773597b2edd39",
+    "bytes": 605,
+    "mtime_ns": 1789627717085952000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19895_hr.dat": {
+    "sha256": "9b783aef8936bf42a02dfe7a223583c6684c4963c57baea9de22064a60d5c68c",
+    "bytes": 120000,
+    "mtime_ns": 1789627717834129100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\19000\\19895_hr.hea": {
+    "sha256": "af27f4fbba6ee22b603f449c994ed9670a99af9b639f8c1c32cc00736f3cd7cc",
+    "bytes": 606,
+    "mtime_ns": 1789627717839622800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20221_hr.dat": {
+    "sha256": "123d8fc3cb45104bc4a346a6536e441f9a85179b87258b8ad4a5a75456313ab9",
+    "bytes": 120000,
+    "mtime_ns": 1789627722224743900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20221_hr.hea": {
+    "sha256": "fac7df44b2ab6943554bd0bb8cd53a21170c9cd98f399854b3ce3d47e9c7ed48",
+    "bytes": 604,
+    "mtime_ns": 1789627722230022700
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20397_hr.dat": {
+    "sha256": "e3f788ca9e2e88bf51a706fc373a1bafb97379ef015330fdae7d9f21a64986d0",
+    "bytes": 120000,
+    "mtime_ns": 1789627724554331500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20397_hr.hea": {
+    "sha256": "1fecc6b85bf72b848e1fa2af9e08fcb623cae15a58cb41b68e0e2dcff7169628",
+    "bytes": 612,
+    "mtime_ns": 1789627724559763800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20538_hr.dat": {
+    "sha256": "94c84577587abebf305b4274d62d2ce883cacdb1fd8775f99522a53f3c7392d0",
+    "bytes": 120000,
+    "mtime_ns": 1789627726461849500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20538_hr.hea": {
+    "sha256": "34d0ee9b3bf8aba2dbd223a88c400c7db928d67370b44a2b9122fca8d775401f",
+    "bytes": 609,
+    "mtime_ns": 1789627726468834400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20601_hr.dat": {
+    "sha256": "cf23579b5dabfaf080883223d7c0d16a01d2e78f5233805b84ac2d937cec48aa",
+    "bytes": 120000,
+    "mtime_ns": 1789627727392884800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20601_hr.hea": {
+    "sha256": "645230d349c145b5f087f699af8e2d5767f243d60c989471fa7bf4b4de1faf38",
+    "bytes": 607,
+    "mtime_ns": 1789627727400615000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20607_hr.dat": {
+    "sha256": "1f66df72c6b443cf54b62bd0531225a72a8fd1dcf498e7aab062c714cc40a852",
+    "bytes": 120000,
+    "mtime_ns": 1789627727485177500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20607_hr.hea": {
+    "sha256": "2e85a81aabc8fdf69d5d6a4d8296b437965c1a5e86ccaeb78bf6bd7e84fee7f7",
+    "bytes": 606,
+    "mtime_ns": 1789627727491748300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20692_hr.dat": {
+    "sha256": "7cf866bb943fd650b87a4c4c873431d830ec7f4eb71d7d3f0ae5aabec6ba89ac",
+    "bytes": 120000,
+    "mtime_ns": 1789627728619173800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20692_hr.hea": {
+    "sha256": "9e300cc9cbc70e9be87de42333bd7b69f260913427bc304ba936e18ad2300f0e",
+    "bytes": 604,
+    "mtime_ns": 1789627728625597300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20897_hr.dat": {
+    "sha256": "1ca8e5c41441a0a817a0dfb0b10db845f309afe2105afac4845f7fb52d4577f1",
+    "bytes": 120000,
+    "mtime_ns": 1789627731334498400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20897_hr.hea": {
+    "sha256": "5316ad7a6c09cea2b1b135c54f6c770bd7650f7ea9ceacd10ad4e6ff3a961c9d",
+    "bytes": 615,
+    "mtime_ns": 1789627731341773500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20907_hr.dat": {
+    "sha256": "6ee248097d996ba83f577dc34598d391d4592cccadaa41cf7b99d3a6dfb1bde1",
+    "bytes": 120000,
+    "mtime_ns": 1789627731464725000
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\20000\\20907_hr.hea": {
+    "sha256": "11227edc55f742e5501f9c032b58489eab78e56604ceec269c6fb37017aefe5e",
+    "bytes": 600,
+    "mtime_ns": 1789627731470435200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21076_hr.dat": {
+    "sha256": "4a02502e74860c7b8f9c7af1e71fd066072d9f5fb5833d90b1b35a8876c820b9",
+    "bytes": 120000,
+    "mtime_ns": 1789627733788014200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21076_hr.hea": {
+    "sha256": "d64b807af4ae80c48884cc784bbce66117e0855b908cfeb32c0b4d45e0f466c2",
+    "bytes": 603,
+    "mtime_ns": 1789627733796306100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21238_hr.dat": {
+    "sha256": "9d3a634bcb7f594f28b74480a0b9110283335192ce4e19f5e90cf3a6b7f43fd8",
+    "bytes": 120000,
+    "mtime_ns": 1789627736080328300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21238_hr.hea": {
+    "sha256": "ed1bddd7b5965d9d02cc63595d2b01d5d8054e2904be18259a4ca576baabf1e3",
+    "bytes": 607,
+    "mtime_ns": 1789627736088898900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21285_hr.dat": {
+    "sha256": "a38b08474e4f3d034611a1120ee11a0284131a004f45620382a264fdcfcc78d7",
+    "bytes": 120000,
+    "mtime_ns": 1789627736753188500
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21285_hr.hea": {
+    "sha256": "749058de37a0c692e5d5e9ae8ae90b92de4a2368d4e87fbb75a6367ed6d2d804",
+    "bytes": 607,
+    "mtime_ns": 1789627736758662900
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21315_hr.dat": {
+    "sha256": "6ec960211389e1e2da9887c0c42dfeed7e8982d43b7e11f82755692c2dfe291a",
+    "bytes": 120000,
+    "mtime_ns": 1789627737195056100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21315_hr.hea": {
+    "sha256": "e62e81000b7085786b2833866142ff2c9b01486ba96d1744903ada6968eb4a0a",
+    "bytes": 605,
+    "mtime_ns": 1789627737200140200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21537_hr.dat": {
+    "sha256": "1e9551a89ee65efff766663bf9508144cd91227d0901a6bbdb6e85f9a10a0d80",
+    "bytes": 120000,
+    "mtime_ns": 1789627740199102600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21537_hr.hea": {
+    "sha256": "3d09b14a1bdec477600eed9c419b07350863bd1f23b4620cbfaf1b9eab8ce0bf",
+    "bytes": 611,
+    "mtime_ns": 1789627740203227100
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21664_hr.dat": {
+    "sha256": "a10544894a234065f302b53089d48e9710e6acfe58215ce38600a4ff91c1e9af",
+    "bytes": 120000,
+    "mtime_ns": 1789627741912576600
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21664_hr.hea": {
+    "sha256": "2974ecaa6cf6931e475cad630e9691a6732f12e5375a518a57843aad5aee5f9c",
+    "bytes": 608,
+    "mtime_ns": 1789627741918084400
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21772_hr.dat": {
+    "sha256": "32abda7b1443fb4eb0492811a74bcd65e52350b6e85419672bb2aa6301725a47",
+    "bytes": 120000,
+    "mtime_ns": 1789627743379809800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21772_hr.hea": {
+    "sha256": "6e17cf7b0800f348b73bf9a115c41852efb996066d9e3ba94b9debbf31264e6c",
+    "bytes": 605,
+    "mtime_ns": 1789627743386091200
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21775_hr.dat": {
+    "sha256": "0921dfe34d265501253e41b6957ccab1677018051b42776130ad581263f1ef13",
+    "bytes": 120000,
+    "mtime_ns": 1789627743419751300
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\records500\\21000\\21775_hr.hea": {
+    "sha256": "d5ad4f845b8d729a141c0dbfa218740013f8687483d212a7fae97c71acb8f331",
+    "bytes": 617,
+    "mtime_ns": 1789627743424789800
+  },
+  "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\\scp_statements.csv": {
+    "sha256": "ad05b0b1fcae83bb1230755ad9cfc7c96f303feddc08a4a9ad5bdc9ca63bac8f",
+    "bytes": 9720,
+    "mtime_ns": 1789627210452039600
+  }
+}

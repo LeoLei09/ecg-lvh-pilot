@@ -1,0 +1,10 @@
+{
+  "unique_patient_oof": true,
+  "templates_disjoint": true,
+  "template_contributor_rows_checked": 10087,
+  "AB_predictions_shuffle_invariant": true,
+  "plot_times_match_peak_table": true,
+  "all_metrics_recomputed": true,
+  "fold9_10_not_read": true,
+  "input_hashes_unchanged": true
+}

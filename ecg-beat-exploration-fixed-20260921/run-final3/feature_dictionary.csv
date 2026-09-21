@@ -1,0 +1,93 @@
+﻿feature,group,definition
+A_V1_mean,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V1_sd,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V1_min,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V1_max,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V1_q25,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V1_q75,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V1_bsw_LVH,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V1_bsw_NORM,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V5_mean,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V5_sd,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V5_min,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V5_max,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V5_q25,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V5_q75,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V5_bsw_LVH,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V5_bsw_NORM,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V6_mean,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V6_sd,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V6_min,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V6_max,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V6_q25,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V6_q75,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V6_bsw_LVH,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+A_V6_bsw_NORM,A,代表性心拍500点上的指定统计量（SD ddof=0，mV）；bsw为代表性心拍到相应类别训练模板的对称BSW-like距离
+B_amp_V1_mean,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_amp_V1_sd,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_amp_V1_mad,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_amp_V1_iqr,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_amp_V5_mean,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_amp_V5_sd,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_amp_V5_mad,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_amp_V5_iqr,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_amp_V6_mean,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_amp_V6_sd,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_amp_V6_mad,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_amp_V6_iqr,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_rr_next_mean,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_rr_next_sd,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_rr_next_mad,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_rr_next_iqr,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_self_reference_distance_V1_mean,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_self_reference_distance_V1_sd,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_self_reference_distance_V1_mad,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_self_reference_distance_V1_iqr,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_self_reference_distance_V5_mean,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_self_reference_distance_V5_sd,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_self_reference_distance_V5_mad,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_self_reference_distance_V5_iqr,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_self_reference_distance_V6_mean,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_self_reference_distance_V6_sd,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_self_reference_distance_V6_mad,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+B_self_reference_distance_V6_iqr,B_addition,逐拍向量的顺序无关统计；mean/SD(ddof=1)/MAD(未乘1.4826)/IQR，至少3个有限心拍；self_reference为本患者固定均值心拍，非类别模板
+C_abs_adjacent_difference_amp_V1_mean,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_amp_V1_sd,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_amp_V1_mad,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_amp_V1_iqr,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_amp_V5_mean,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_amp_V5_sd,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_amp_V5_mad,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_amp_V5_iqr,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_amp_V6_mean,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_amp_V6_sd,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_amp_V6_mad,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_amp_V6_iqr,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_rr_next_mean,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_rr_next_sd,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_rr_next_mad,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_rr_next_iqr,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_self_reference_distance_V1_mean,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_self_reference_distance_V1_sd,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_self_reference_distance_V1_mad,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_self_reference_distance_V1_iqr,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_self_reference_distance_V5_mean,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_self_reference_distance_V5_sd,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_self_reference_distance_V5_mad,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_self_reference_distance_V5_iqr,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_self_reference_distance_V6_mean,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_self_reference_distance_V6_sd,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_self_reference_distance_V6_mad,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_abs_adjacent_difference_self_reference_distance_V6_iqr,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_direct_adjacent_waveform_distance_V1_mean,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_direct_adjacent_waveform_distance_V1_sd,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_direct_adjacent_waveform_distance_V1_mad,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_direct_adjacent_waveform_distance_V1_iqr,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_direct_adjacent_waveform_distance_V5_mean,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_direct_adjacent_waveform_distance_V5_sd,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_direct_adjacent_waveform_distance_V5_mad,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_direct_adjacent_waveform_distance_V5_iqr,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_direct_adjacent_waveform_distance_V6_mean,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_direct_adjacent_waveform_distance_V6_sd,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_direct_adjacent_waveform_distance_V6_mad,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"
+C_direct_adjacent_waveform_distance_V6_iqr,C_addition,"固定原始连续有效边上统计，至少2对；abs_adjacent_difference=|v[j+1]-v[j]|；direct_adjacent_waveform_distance=D(h[j],h[j+1])，不能等同于|D(h[j],ref)-D(h[j+1],ref)|"

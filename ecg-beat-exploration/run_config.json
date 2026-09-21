@@ -1,0 +1,34 @@
+{
+  "seed": 5001,
+  "data_root": "D:\\UserFiles\\desktop\\ECGdata\\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3",
+  "source_final5": "D:\\UserFiles\\desktop\\dd\\ecg5001-real-output-final5\\run-20260918T013319Z-0edaca8ce0fe",
+  "folds_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "fold9_10_waveforms_read": false,
+  "target_leads": [
+    "V1",
+    "V5",
+    "V6"
+  ],
+  "flatline_thresholds_mv": [
+    0.0005,
+    0.001,
+    0.002,
+    0.005
+  ],
+  "shuffle_seeds": [
+    7001,
+    7002,
+    7003,
+    7004,
+    7005
+  ]
+}
