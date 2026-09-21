@@ -19,7 +19,7 @@
 
 - [中文最终报告](ecg-beat-exploration-fixed-20260921/run-final3/ECG-5001-fixed-report-zh.md)
 - [真实波形图册（63 页）](ecg-beat-exploration-fixed-20260921/run-final3/casebook/waveform_casebook.pdf)
-- [待人工复核表](ecg-beat-exploration-fixed-20260921/run-final3/casebook/manual_review_form.csv)：AI 初审不等于人工专家审核。
+- [待人工复核表](ecg-beat-exploration-fixed-20260921/run-final3/casebook/manual_review_form.csv)
 - [特征定义](ecg-beat-exploration-fixed-20260921/run-final3/FEATURES.md)
 - [患者折外预测](ecg-beat-exploration-fixed-20260921/run-final3/predictions/all_oof.csv)、[配对比较](ecg-beat-exploration-fixed-20260921/run-final3/tables/paired_bootstrap.csv)、[打乱汇总](ecg-beat-exploration-fixed-20260921/run-final3/tables/shuffle_summary.csv)
 - [每折模板患者清单](ecg-beat-exploration-fixed-20260921/run-final3/templates/)、[验证结果](ecg-beat-exploration-fixed-20260921/run-final3/verification.json)
